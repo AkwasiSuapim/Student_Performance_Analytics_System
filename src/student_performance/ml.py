@@ -143,3 +143,23 @@ class FinalScorePredictor:
         prediction = float(self.model.predict(frame)[0])
         return round(min(100.0, max(0.0, prediction)), 2)
 
+
+
+def prediction_rows(
+    predictor: FinalScorePredictor, students: list[Student]
+) -> list[dict[str, object]]:
+    """Predict every student whose features are complete.
+
+    ``actual_final`` is ``None`` when the final grade is not yet recorded.
+    """
+    return [
+        {
+            "student_id": student.student_id,
+            "name": student.name,
+            "course_code": student.course_code,
+            "actual_final": student.get_grade(TARGET_COLUMN),
+            "predicted_final": predictor.predict(student),
+        }
+        for student in students
+        if student_features(student) is not None
+    ]

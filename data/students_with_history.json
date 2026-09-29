@@ -1,0 +1,6355 @@
+[
+ {
+  "student_id": "S001",
+  "name": "Student 001",
+  "course_code": "MAT101",
+  "course_name": "College Algebra",
+  "section_id": "MAT101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-chen",
+  "instructor_name": "Dr. Chen",
+  "credit_hours": 4,
+  "attendance_rate": 89,
+  "study_hours_weekly": 7,
+  "grades": {
+   "assignment_1": 86.0,
+   "assignment_2": 86.0,
+   "quiz": 80.0,
+   "midterm": 85.0,
+   "final": 91.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 100
+   },
+   {
+    "period": "2026-W8",
+    "average": 98
+   },
+   {
+    "period": "2026-W12",
+    "average": 92
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 100
+   }
+  ]
+ },
+ {
+  "student_id": "S001",
+  "name": "Student 001",
+  "course_code": "CSC110",
+  "course_name": "Introduction to Programming",
+  "section_id": "CSC110-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-silva",
+  "instructor_name": "Dr. Silva",
+  "credit_hours": 3,
+  "attendance_rate": 94,
+  "study_hours_weekly": 8,
+  "grades": {
+   "assignment_1": 79.0,
+   "assignment_2": 73.0,
+   "quiz": 80.0,
+   "midterm": 70.0,
+   "final": 78.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 79
+   },
+   {
+    "period": "2026-W8",
+    "average": 78
+   },
+   {
+    "period": "2026-W12",
+    "average": 77
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 92
+   }
+  ]
+ },
+ {
+  "student_id": "S001",
+  "name": "Student 001",
+  "course_code": "ENG102",
+  "course_name": "Academic Writing",
+  "section_id": "ENG102-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-nguyen",
+  "instructor_name": "Prof. Nguyen",
+  "credit_hours": 3,
+  "attendance_rate": 77,
+  "study_hours_weekly": 12,
+  "grades": {
+   "assignment_1": 92.0,
+   "assignment_2": 94.0,
+   "quiz": 90.0,
+   "midterm": 99.0,
+   "final": 92.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 100
+   },
+   {
+    "period": "2026-W8",
+    "average": 100
+   },
+   {
+    "period": "2026-W12",
+    "average": 100
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 98
+   }
+  ]
+ },
+ {
+  "student_id": "S001",
+  "name": "Student 001",
+  "course_code": "PHY101",
+  "course_name": "Physics I",
+  "section_id": "PHY101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-chen",
+  "instructor_name": "Dr. Chen",
+  "credit_hours": 4,
+  "attendance_rate": 97,
+  "study_hours_weekly": 10,
+  "grades": {
+   "assignment_1": 83.0,
+   "assignment_2": 89.0,
+   "quiz": 80.0,
+   "midterm": 90.0,
+   "final": 86.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 100
+   },
+   {
+    "period": "2026-W8",
+    "average": 99
+   },
+   {
+    "period": "2026-W12",
+    "average": 92
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 100
+   }
+  ]
+ },
+ {
+  "student_id": "S001",
+  "name": "Student 001",
+  "course_code": "HIS110",
+  "course_name": "World History",
+  "section_id": "HIS110-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-okafor",
+  "instructor_name": "Prof. Okafor",
+  "credit_hours": 3,
+  "attendance_rate": 99,
+  "study_hours_weekly": 7,
+  "grades": {
+   "assignment_1": 83.0,
+   "assignment_2": 76.0,
+   "quiz": 86.0,
+   "midterm": 79.0,
+   "final": 85.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 85
+   },
+   {
+    "period": "2026-W8",
+    "average": 84
+   },
+   {
+    "period": "2026-W12",
+    "average": 83
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 100
+   }
+  ]
+ },
+ {
+  "student_id": "S001",
+  "name": "Student 001",
+  "course_code": "BIO101",
+  "course_name": "Biology I",
+  "section_id": "BIO101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-silva",
+  "instructor_name": "Dr. Silva",
+  "credit_hours": 4,
+  "attendance_rate": 91,
+  "study_hours_weekly": 7,
+  "grades": {
+   "assignment_1": 86.0,
+   "assignment_2": 87.0,
+   "quiz": 82.0,
+   "midterm": 79.0,
+   "final": 81.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 81
+   },
+   {
+    "period": "2026-W8",
+    "average": 82
+   },
+   {
+    "period": "2026-W12",
+    "average": 82
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 92
+   }
+  ]
+ },
+ {
+  "student_id": "S001",
+  "name": "Student 001",
+  "course_code": "CHE101",
+  "course_name": "Chemistry I",
+  "section_id": "CHE101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-nguyen",
+  "instructor_name": "Prof. Nguyen",
+  "credit_hours": 4,
+  "attendance_rate": 93,
+  "study_hours_weekly": 8,
+  "grades": {
+   "assignment_1": 70.0,
+   "assignment_2": 80.0,
+   "quiz": 67.0,
+   "midterm": 73.0,
+   "final": 78.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 72
+   },
+   {
+    "period": "2026-W8",
+    "average": 73
+   },
+   {
+    "period": "2026-W12",
+    "average": 73
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 91
+   }
+  ]
+ },
+ {
+  "student_id": "S002",
+  "name": "Student 002",
+  "course_code": "MAT101",
+  "course_name": "College Algebra",
+  "section_id": "MAT101-B",
+  "section_label": "B",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-okafor",
+  "instructor_name": "Prof. Okafor",
+  "credit_hours": 4,
+  "attendance_rate": 82,
+  "study_hours_weekly": 7,
+  "grades": {
+   "assignment_1": 88.0,
+   "assignment_2": 91.0,
+   "quiz": 87.0,
+   "midterm": 84.0,
+   "final": 90.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 85
+   },
+   {
+    "period": "2026-W8",
+    "average": 86
+   },
+   {
+    "period": "2026-W12",
+    "average": 87
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 84
+   }
+  ]
+ },
+ {
+  "student_id": "S002",
+  "name": "Student 002",
+  "course_code": "CSC110",
+  "course_name": "Introduction to Programming",
+  "section_id": "CSC110-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-silva",
+  "instructor_name": "Dr. Silva",
+  "credit_hours": 3,
+  "attendance_rate": 89,
+  "study_hours_weekly": 9,
+  "grades": {
+   "assignment_1": 87.0,
+   "assignment_2": 85.0,
+   "quiz": 82.0,
+   "midterm": 77.0,
+   "final": 83.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 85
+   },
+   {
+    "period": "2026-W8",
+    "average": 84
+   },
+   {
+    "period": "2026-W12",
+    "average": 83
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 88
+   }
+  ]
+ },
+ {
+  "student_id": "S002",
+  "name": "Student 002",
+  "course_code": "ENG102",
+  "course_name": "Academic Writing",
+  "section_id": "ENG102-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-nguyen",
+  "instructor_name": "Prof. Nguyen",
+  "credit_hours": 3,
+  "attendance_rate": 90,
+  "study_hours_weekly": 13,
+  "grades": {
+   "assignment_1": 100.0,
+   "assignment_2": 96.0,
+   "midterm": 100.0,
+   "final": 100.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 100
+   },
+   {
+    "period": "2026-W8",
+    "average": 100
+   },
+   {
+    "period": "2026-W12",
+    "average": 100
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 92
+   }
+  ]
+ },
+ {
+  "student_id": "S002",
+  "name": "Student 002",
+  "course_code": "PHY101",
+  "course_name": "Physics I",
+  "section_id": "PHY101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-chen",
+  "instructor_name": "Dr. Chen",
+  "credit_hours": 4,
+  "attendance_rate": 91,
+  "study_hours_weekly": 7,
+  "grades": {
+   "assignment_1": 81.0,
+   "assignment_2": 81.0,
+   "midterm": 79.0,
+   "final": 82.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 77
+   },
+   {
+    "period": "2026-W8",
+    "average": 78
+   },
+   {
+    "period": "2026-W12",
+    "average": 80
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 91
+   }
+  ]
+ },
+ {
+  "student_id": "S002",
+  "name": "Student 002",
+  "course_code": "HIS110",
+  "course_name": "World History",
+  "section_id": "HIS110-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-okafor",
+  "instructor_name": "Prof. Okafor",
+  "credit_hours": 3,
+  "attendance_rate": 91,
+  "study_hours_weekly": 10,
+  "grades": {
+   "assignment_1": 88.0,
+   "assignment_2": 88.0,
+   "quiz": 83.0,
+   "midterm": 80.0,
+   "final": 84.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 83
+   },
+   {
+    "period": "2026-W8",
+    "average": 83
+   },
+   {
+    "period": "2026-W12",
+    "average": 84
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 94
+   }
+  ]
+ },
+ {
+  "student_id": "S002",
+  "name": "Student 002",
+  "course_code": "BIO101",
+  "course_name": "Biology I",
+  "section_id": "BIO101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-silva",
+  "instructor_name": "Dr. Silva",
+  "credit_hours": 4,
+  "attendance_rate": 93,
+  "study_hours_weekly": 10,
+  "grades": {
+   "assignment_1": 86.0,
+   "assignment_2": 87.0,
+   "quiz": 72.0,
+   "midterm": 90.0,
+   "final": 82.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 84
+   },
+   {
+    "period": "2026-W8",
+    "average": 84
+   },
+   {
+    "period": "2026-W12",
+    "average": 84
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 95
+   }
+  ]
+ },
+ {
+  "student_id": "S002",
+  "name": "Student 002",
+  "course_code": "CHE101",
+  "course_name": "Chemistry I",
+  "section_id": "CHE101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-nguyen",
+  "instructor_name": "Prof. Nguyen",
+  "credit_hours": 4,
+  "attendance_rate": 94,
+  "study_hours_weekly": 10,
+  "grades": {
+   "assignment_1": 88.0,
+   "assignment_2": 86.0,
+   "quiz": 95.0,
+   "midterm": 87.0,
+   "final": 87.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 85
+   },
+   {
+    "period": "2026-W8",
+    "average": 86
+   },
+   {
+    "period": "2026-W12",
+    "average": 87
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 96
+   }
+  ]
+ },
+ {
+  "student_id": "S003",
+  "name": "Student 003",
+  "course_code": "MAT101",
+  "course_name": "College Algebra",
+  "section_id": "MAT101-B",
+  "section_label": "B",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-okafor",
+  "instructor_name": "Prof. Okafor",
+  "credit_hours": 4,
+  "attendance_rate": 95,
+  "study_hours_weekly": 11,
+  "grades": {
+   "assignment_1": 75.0,
+   "assignment_2": 73.0,
+   "quiz": 75.0,
+   "midterm": 81.0,
+   "final": 78.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 78
+   },
+   {
+    "period": "2026-W8",
+    "average": 78
+   },
+   {
+    "period": "2026-W12",
+    "average": 77
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 95
+   }
+  ]
+ },
+ {
+  "student_id": "S003",
+  "name": "Student 003",
+  "course_code": "CSC110",
+  "course_name": "Introduction to Programming",
+  "section_id": "CSC110-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-silva",
+  "instructor_name": "Dr. Silva",
+  "credit_hours": 3,
+  "attendance_rate": 100,
+  "study_hours_weekly": 9,
+  "grades": {
+   "assignment_1": 73.0,
+   "assignment_2": 68.0,
+   "quiz": 70.0,
+   "midterm": 78.0,
+   "final": 72.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 87
+   },
+   {
+    "period": "2026-W8",
+    "average": 82
+   },
+   {
+    "period": "2026-W12",
+    "average": 77
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 100
+   }
+  ]
+ },
+ {
+  "student_id": "S003",
+  "name": "Student 003",
+  "course_code": "ENG102",
+  "course_name": "Academic Writing",
+  "section_id": "ENG102-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-nguyen",
+  "instructor_name": "Prof. Nguyen",
+  "credit_hours": 3,
+  "attendance_rate": 100,
+  "study_hours_weekly": 10,
+  "grades": {
+   "assignment_1": 81.0,
+   "assignment_2": 80.0,
+   "quiz": 76.0,
+   "midterm": 82.0,
+   "final": 74.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 79
+   },
+   {
+    "period": "2026-W8",
+    "average": 79
+   },
+   {
+    "period": "2026-W12",
+    "average": 79
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 98
+   }
+  ]
+ },
+ {
+  "student_id": "S003",
+  "name": "Student 003",
+  "course_code": "PHY101",
+  "course_name": "Physics I",
+  "section_id": "PHY101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-chen",
+  "instructor_name": "Dr. Chen",
+  "credit_hours": 4,
+  "attendance_rate": 98,
+  "study_hours_weekly": 10,
+  "grades": {
+   "assignment_1": 64.0,
+   "assignment_2": 68.0,
+   "midterm": 71.0,
+   "final": 71.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 89
+   },
+   {
+    "period": "2026-W8",
+    "average": 82
+   },
+   {
+    "period": "2026-W12",
+    "average": 75
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 97
+   }
+  ]
+ },
+ {
+  "student_id": "S003",
+  "name": "Student 003",
+  "course_code": "HIS110",
+  "course_name": "World History",
+  "section_id": "HIS110-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-okafor",
+  "instructor_name": "Prof. Okafor",
+  "credit_hours": 3,
+  "attendance_rate": 96,
+  "study_hours_weekly": 12,
+  "grades": {
+   "assignment_1": 73.0,
+   "assignment_2": 70.0,
+   "quiz": 81.0,
+   "midterm": 74.0,
+   "final": 71.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 86
+   },
+   {
+    "period": "2026-W8",
+    "average": 82
+   },
+   {
+    "period": "2026-W12",
+    "average": 78
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 97
+   }
+  ]
+ },
+ {
+  "student_id": "S003",
+  "name": "Student 003",
+  "course_code": "BIO101",
+  "course_name": "Biology I",
+  "section_id": "BIO101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-silva",
+  "instructor_name": "Dr. Silva",
+  "credit_hours": 4,
+  "attendance_rate": 97,
+  "study_hours_weekly": 11,
+  "grades": {
+   "assignment_1": 73.0,
+   "assignment_2": 75.0,
+   "quiz": 71.0,
+   "midterm": 78.0,
+   "final": 77.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 75
+   },
+   {
+    "period": "2026-W8",
+    "average": 75
+   },
+   {
+    "period": "2026-W12",
+    "average": 75
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 99
+   }
+  ]
+ },
+ {
+  "student_id": "S003",
+  "name": "Student 003",
+  "course_code": "CHE101",
+  "course_name": "Chemistry I",
+  "section_id": "CHE101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-nguyen",
+  "instructor_name": "Prof. Nguyen",
+  "credit_hours": 4,
+  "attendance_rate": 91,
+  "study_hours_weekly": 8,
+  "grades": {
+   "assignment_1": 79.0,
+   "assignment_2": 82.0,
+   "quiz": 72.0,
+   "midterm": 76.0,
+   "final": 80.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 80
+   },
+   {
+    "period": "2026-W8",
+    "average": 80
+   },
+   {
+    "period": "2026-W12",
+    "average": 79
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 90
+   }
+  ]
+ },
+ {
+  "student_id": "S004",
+  "name": "Student 004",
+  "course_code": "MAT101",
+  "course_name": "College Algebra",
+  "section_id": "MAT101-B",
+  "section_label": "B",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-okafor",
+  "instructor_name": "Prof. Okafor",
+  "credit_hours": 4,
+  "attendance_rate": 94,
+  "study_hours_weekly": 7,
+  "grades": {
+   "assignment_1": 82.0,
+   "assignment_2": 81.0,
+   "quiz": 86.0,
+   "midterm": 86.0,
+   "final": 75.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 100
+   },
+   {
+    "period": "2026-W8",
+    "average": 94
+   },
+   {
+    "period": "2026-W12",
+    "average": 88
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 100
+   }
+  ]
+ },
+ {
+  "student_id": "S004",
+  "name": "Student 004",
+  "course_code": "CSC110",
+  "course_name": "Introduction to Programming",
+  "section_id": "CSC110-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-silva",
+  "instructor_name": "Dr. Silva",
+  "credit_hours": 3,
+  "attendance_rate": 91,
+  "study_hours_weekly": 6,
+  "grades": {
+   "assignment_1": 84.0,
+   "assignment_2": 88.0,
+   "quiz": 94.0,
+   "midterm": 82.0,
+   "final": 82.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 84
+   },
+   {
+    "period": "2026-W8",
+    "average": 85
+   },
+   {
+    "period": "2026-W12",
+    "average": 85
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 92
+   }
+  ]
+ },
+ {
+  "student_id": "S004",
+  "name": "Student 004",
+  "course_code": "ENG102",
+  "course_name": "Academic Writing",
+  "section_id": "ENG102-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-nguyen",
+  "instructor_name": "Prof. Nguyen",
+  "credit_hours": 3,
+  "attendance_rate": 100,
+  "study_hours_weekly": 12,
+  "grades": {
+   "assignment_1": 91.0,
+   "assignment_2": 87.0,
+   "quiz": 88.0,
+   "midterm": 82.0,
+   "final": 85.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 84
+   },
+   {
+    "period": "2026-W8",
+    "average": 85
+   },
+   {
+    "period": "2026-W12",
+    "average": 86
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 99
+   }
+  ]
+ },
+ {
+  "student_id": "S004",
+  "name": "Student 004",
+  "course_code": "PHY101",
+  "course_name": "Physics I",
+  "section_id": "PHY101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-chen",
+  "instructor_name": "Dr. Chen",
+  "credit_hours": 4,
+  "attendance_rate": 89,
+  "study_hours_weekly": 8,
+  "grades": {
+   "assignment_1": 83.0,
+   "assignment_2": 76.0,
+   "quiz": 76.0,
+   "midterm": 84.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 78
+   },
+   {
+    "period": "2026-W8",
+    "average": 78
+   },
+   {
+    "period": "2026-W12",
+    "average": 79
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 91
+   }
+  ]
+ },
+ {
+  "student_id": "S004",
+  "name": "Student 004",
+  "course_code": "HIS110",
+  "course_name": "World History",
+  "section_id": "HIS110-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-okafor",
+  "instructor_name": "Prof. Okafor",
+  "credit_hours": 3,
+  "attendance_rate": 92,
+  "study_hours_weekly": 10,
+  "grades": {
+   "assignment_1": 82.0,
+   "assignment_2": 78.0,
+   "quiz": 77.0,
+   "midterm": 80.0,
+   "final": 77.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 78
+   },
+   {
+    "period": "2026-W8",
+    "average": 78
+   },
+   {
+    "period": "2026-W12",
+    "average": 79
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 93
+   }
+  ]
+ },
+ {
+  "student_id": "S004",
+  "name": "Student 004",
+  "course_code": "BIO101",
+  "course_name": "Biology I",
+  "section_id": "BIO101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-silva",
+  "instructor_name": "Dr. Silva",
+  "credit_hours": 4,
+  "attendance_rate": 94,
+  "study_hours_weekly": 8,
+  "grades": {
+   "assignment_1": 82.0,
+   "assignment_2": 78.0,
+   "midterm": 80.0,
+   "final": 86.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 85
+   },
+   {
+    "period": "2026-W8",
+    "average": 84
+   },
+   {
+    "period": "2026-W12",
+    "average": 83
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 97
+   }
+  ]
+ },
+ {
+  "student_id": "S004",
+  "name": "Student 004",
+  "course_code": "CHE101",
+  "course_name": "Chemistry I",
+  "section_id": "CHE101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-nguyen",
+  "instructor_name": "Prof. Nguyen",
+  "credit_hours": 4,
+  "attendance_rate": 99,
+  "study_hours_weekly": 6,
+  "grades": {
+   "assignment_1": 87.0,
+   "assignment_2": 86.0,
+   "quiz": 95.0,
+   "midterm": 87.0,
+   "final": 91.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 89
+   },
+   {
+    "period": "2026-W8",
+    "average": 89
+   },
+   {
+    "period": "2026-W12",
+    "average": 89
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 100
+   }
+  ]
+ },
+ {
+  "student_id": "S005",
+  "name": "Student 005",
+  "course_code": "BIO101",
+  "course_name": "Biology I",
+  "section_id": "BIO101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-silva",
+  "instructor_name": "Dr. Silva",
+  "credit_hours": 4,
+  "attendance_rate": 65,
+  "study_hours_weekly": 6,
+  "grades": {
+   "assignment_1": 66.0,
+   "assignment_2": 53.0,
+   "quiz": 64.0,
+   "midterm": 57.0,
+   "final": 68.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 81
+   },
+   {
+    "period": "2026-W8",
+    "average": 75
+   },
+   {
+    "period": "2026-W12",
+    "average": 68
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 86
+   }
+  ]
+ },
+ {
+  "student_id": "S005",
+  "name": "Student 005",
+  "course_code": "CSC110",
+  "course_name": "Introduction to Programming",
+  "section_id": "CSC110-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-silva",
+  "instructor_name": "Dr. Silva",
+  "credit_hours": 3,
+  "attendance_rate": 62,
+  "study_hours_weekly": 5,
+  "grades": {
+   "assignment_1": 49.0,
+   "assignment_2": 54.0,
+   "quiz": 57.0,
+   "midterm": 43.0,
+   "final": 49.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 52
+   },
+   {
+    "period": "2026-W8",
+    "average": 52
+   },
+   {
+    "period": "2026-W12",
+    "average": 51
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 62
+   }
+  ]
+ },
+ {
+  "student_id": "S005",
+  "name": "Student 005",
+  "course_code": "PHY101",
+  "course_name": "Physics I",
+  "section_id": "PHY101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-chen",
+  "instructor_name": "Dr. Chen",
+  "credit_hours": 4,
+  "attendance_rate": 58,
+  "study_hours_weekly": 6,
+  "grades": {
+   "assignment_1": 61.0,
+   "assignment_2": 52.0,
+   "quiz": 56.0,
+   "midterm": 50.0,
+   "final": 54.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 57
+   },
+   {
+    "period": "2026-W8",
+    "average": 56
+   },
+   {
+    "period": "2026-W12",
+    "average": 55
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 60
+   }
+  ]
+ },
+ {
+  "student_id": "S006",
+  "name": "Student 006",
+  "course_code": "HIS110",
+  "course_name": "World History",
+  "section_id": "HIS110-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-okafor",
+  "instructor_name": "Prof. Okafor",
+  "credit_hours": 3,
+  "attendance_rate": 93,
+  "study_hours_weekly": 12,
+  "grades": {
+   "assignment_1": 68.0,
+   "assignment_2": 82.0,
+   "midterm": 75.0,
+   "final": 80.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 96
+   },
+   {
+    "period": "2026-W8",
+    "average": 89
+   },
+   {
+    "period": "2026-W12",
+    "average": 83
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 100
+   }
+  ]
+ },
+ {
+  "student_id": "S006",
+  "name": "Student 006",
+  "course_code": "CSC110",
+  "course_name": "Introduction to Programming",
+  "section_id": "CSC110-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-silva",
+  "instructor_name": "Dr. Silva",
+  "credit_hours": 3,
+  "attendance_rate": 100,
+  "study_hours_weekly": 11,
+  "grades": {
+   "assignment_1": 76.0,
+   "assignment_2": 75.0,
+   "quiz": 81.0,
+   "midterm": 75.0,
+   "final": 80.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 78
+   },
+   {
+    "period": "2026-W8",
+    "average": 78
+   },
+   {
+    "period": "2026-W12",
+    "average": 78
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 99
+   }
+  ]
+ },
+ {
+  "student_id": "S006",
+  "name": "Student 006",
+  "course_code": "CHE101",
+  "course_name": "Chemistry I",
+  "section_id": "CHE101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-nguyen",
+  "instructor_name": "Prof. Nguyen",
+  "credit_hours": 4,
+  "attendance_rate": 93,
+  "study_hours_weekly": 8,
+  "grades": {
+   "assignment_1": 89.0,
+   "assignment_2": 84.0,
+   "quiz": 87.0,
+   "midterm": 77.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 82
+   },
+   {
+    "period": "2026-W8",
+    "average": 83
+   },
+   {
+    "period": "2026-W12",
+    "average": 84
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 95
+   }
+  ]
+ },
+ {
+  "student_id": "S007",
+  "name": "Student 007",
+  "course_code": "MAT101",
+  "course_name": "College Algebra",
+  "section_id": "MAT101-B",
+  "section_label": "B",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-okafor",
+  "instructor_name": "Prof. Okafor",
+  "credit_hours": 4,
+  "attendance_rate": 96,
+  "study_hours_weekly": 10,
+  "grades": {
+   "assignment_1": 71.0,
+   "assignment_2": 75.0,
+   "quiz": 76.0,
+   "midterm": 79.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 91
+   },
+   {
+    "period": "2026-W8",
+    "average": 85
+   },
+   {
+    "period": "2026-W12",
+    "average": 80
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 100
+   }
+  ]
+ },
+ {
+  "student_id": "S007",
+  "name": "Student 007",
+  "course_code": "HIS110",
+  "course_name": "World History",
+  "section_id": "HIS110-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-okafor",
+  "instructor_name": "Prof. Okafor",
+  "credit_hours": 3,
+  "attendance_rate": 89,
+  "study_hours_weekly": 7,
+  "grades": {
+   "assignment_1": 66.0,
+   "assignment_2": 78.0,
+   "quiz": 75.0,
+   "midterm": 75.0,
+   "final": 75.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 71
+   },
+   {
+    "period": "2026-W8",
+    "average": 72
+   },
+   {
+    "period": "2026-W12",
+    "average": 73
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 88
+   }
+  ]
+ },
+ {
+  "student_id": "S007",
+  "name": "Student 007",
+  "course_code": "CHE101",
+  "course_name": "Chemistry I",
+  "section_id": "CHE101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-nguyen",
+  "instructor_name": "Prof. Nguyen",
+  "credit_hours": 4,
+  "attendance_rate": 100,
+  "study_hours_weekly": 11,
+  "grades": {
+   "assignment_1": 86.0,
+   "assignment_2": 77.0,
+   "quiz": 83.0,
+   "midterm": 91.0,
+   "final": 89.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 84
+   },
+   {
+    "period": "2026-W8",
+    "average": 84
+   },
+   {
+    "period": "2026-W12",
+    "average": 85
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 100
+   }
+  ]
+ },
+ {
+  "student_id": "S008",
+  "name": "Student 008",
+  "course_code": "PHY101",
+  "course_name": "Physics I",
+  "section_id": "PHY101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-chen",
+  "instructor_name": "Dr. Chen",
+  "credit_hours": 4,
+  "attendance_rate": 93,
+  "study_hours_weekly": 9,
+  "grades": {
+   "assignment_1": 78.0,
+   "assignment_2": 88.0,
+   "quiz": 74.0,
+   "midterm": 87.0,
+   "final": 82.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 79
+   },
+   {
+    "period": "2026-W8",
+    "average": 80
+   },
+   {
+    "period": "2026-W12",
+    "average": 81
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 91
+   }
+  ]
+ },
+ {
+  "student_id": "S008",
+  "name": "Student 008",
+  "course_code": "ENG102",
+  "course_name": "Academic Writing",
+  "section_id": "ENG102-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-nguyen",
+  "instructor_name": "Prof. Nguyen",
+  "credit_hours": 3,
+  "attendance_rate": 88,
+  "study_hours_weekly": 8,
+  "grades": {
+   "assignment_1": 88.0,
+   "assignment_2": 87.0,
+   "quiz": 88.0,
+   "midterm": 82.0,
+   "final": 83.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 84
+   },
+   {
+    "period": "2026-W8",
+    "average": 84
+   },
+   {
+    "period": "2026-W12",
+    "average": 85
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 85
+   }
+  ]
+ },
+ {
+  "student_id": "S008",
+  "name": "Student 008",
+  "course_code": "CSC110",
+  "course_name": "Introduction to Programming",
+  "section_id": "CSC110-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-silva",
+  "instructor_name": "Dr. Silva",
+  "credit_hours": 3,
+  "attendance_rate": 92,
+  "study_hours_weekly": 9,
+  "grades": {
+   "assignment_1": 78.0,
+   "assignment_2": 78.0,
+   "quiz": 76.0,
+   "midterm": 79.0,
+   "final": 81.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 95
+   },
+   {
+    "period": "2026-W8",
+    "average": 90
+   },
+   {
+    "period": "2026-W12",
+    "average": 84
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 93
+   }
+  ]
+ },
+ {
+  "student_id": "S008",
+  "name": "Student 008",
+  "course_code": "HIS110",
+  "course_name": "World History",
+  "section_id": "HIS110-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-okafor",
+  "instructor_name": "Prof. Okafor",
+  "credit_hours": 3,
+  "attendance_rate": 89,
+  "study_hours_weekly": 8,
+  "grades": {
+   "assignment_1": 85.0,
+   "assignment_2": 82.0,
+   "quiz": 83.0,
+   "midterm": 84.0,
+   "final": 82.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 100
+   },
+   {
+    "period": "2026-W8",
+    "average": 97
+   },
+   {
+    "period": "2026-W12",
+    "average": 90
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 92
+   }
+  ]
+ },
+ {
+  "student_id": "S009",
+  "name": "Student 009",
+  "course_code": "ENG102",
+  "course_name": "Academic Writing",
+  "section_id": "ENG102-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-nguyen",
+  "instructor_name": "Prof. Nguyen",
+  "credit_hours": 3,
+  "attendance_rate": 72,
+  "study_hours_weekly": 7,
+  "grades": {
+   "assignment_1": 78.0,
+   "assignment_2": 87.0,
+   "quiz": 82.0,
+   "midterm": 75.0,
+   "final": 77.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 79
+   },
+   {
+    "period": "2026-W8",
+    "average": 79
+   },
+   {
+    "period": "2026-W12",
+    "average": 79
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 74
+   }
+  ]
+ },
+ {
+  "student_id": "S009",
+  "name": "Student 009",
+  "course_code": "MAT101",
+  "course_name": "College Algebra",
+  "section_id": "MAT101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-chen",
+  "instructor_name": "Dr. Chen",
+  "credit_hours": 4,
+  "attendance_rate": 81,
+  "study_hours_weekly": 7,
+  "grades": {
+   "assignment_1": 93.0,
+   "assignment_2": 82.0,
+   "quiz": 86.0,
+   "midterm": 91.0,
+   "final": 84.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 85
+   },
+   {
+    "period": "2026-W8",
+    "average": 86
+   },
+   {
+    "period": "2026-W12",
+    "average": 86
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 81
+   }
+  ]
+ },
+ {
+  "student_id": "S009",
+  "name": "Student 009",
+  "course_code": "BIO101",
+  "course_name": "Biology I",
+  "section_id": "BIO101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-silva",
+  "instructor_name": "Dr. Silva",
+  "credit_hours": 4,
+  "attendance_rate": 84,
+  "study_hours_weekly": 8,
+  "grades": {
+   "assignment_1": 83.0,
+   "assignment_2": 87.0,
+   "quiz": 84.0,
+   "midterm": 70.0,
+   "final": 95.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 84
+   },
+   {
+    "period": "2026-W8",
+    "average": 84
+   },
+   {
+    "period": "2026-W12",
+    "average": 84
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 82
+   }
+  ]
+ },
+ {
+  "student_id": "S009",
+  "name": "Student 009",
+  "course_code": "CSC110",
+  "course_name": "Introduction to Programming",
+  "section_id": "CSC110-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-silva",
+  "instructor_name": "Dr. Silva",
+  "credit_hours": 3,
+  "attendance_rate": 87,
+  "study_hours_weekly": 10,
+  "grades": {
+   "assignment_1": 73.0,
+   "assignment_2": 77.0,
+   "quiz": 77.0,
+   "midterm": 84.0,
+   "final": 81.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 75
+   },
+   {
+    "period": "2026-W8",
+    "average": 76
+   },
+   {
+    "period": "2026-W12",
+    "average": 77
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 87
+   }
+  ]
+ },
+ {
+  "student_id": "S010",
+  "name": "Student 010",
+  "course_code": "ENG102",
+  "course_name": "Academic Writing",
+  "section_id": "ENG102-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-nguyen",
+  "instructor_name": "Prof. Nguyen",
+  "credit_hours": 3,
+  "attendance_rate": 63,
+  "study_hours_weekly": 7,
+  "grades": {
+   "assignment_1": 53.0,
+   "assignment_2": 52.0,
+   "quiz": 46.0,
+   "midterm": 54.0,
+   "final": 59.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 49
+   },
+   {
+    "period": "2026-W8",
+    "average": 51
+   },
+   {
+    "period": "2026-W12",
+    "average": 52
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 61
+   }
+  ]
+ },
+ {
+  "student_id": "S010",
+  "name": "Student 010",
+  "course_code": "CSC110",
+  "course_name": "Introduction to Programming",
+  "section_id": "CSC110-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-silva",
+  "instructor_name": "Dr. Silva",
+  "credit_hours": 3,
+  "attendance_rate": 70,
+  "study_hours_weekly": 2,
+  "grades": {
+   "assignment_1": 34.0,
+   "assignment_2": 36.0,
+   "quiz": 27.0,
+   "midterm": 32.0,
+   "final": 34.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 52
+   },
+   {
+    "period": "2026-W8",
+    "average": 46
+   },
+   {
+    "period": "2026-W12",
+    "average": 39
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 70
+   }
+  ]
+ },
+ {
+  "student_id": "S010",
+  "name": "Student 010",
+  "course_code": "HIS110",
+  "course_name": "World History",
+  "section_id": "HIS110-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-okafor",
+  "instructor_name": "Prof. Okafor",
+  "credit_hours": 3,
+  "attendance_rate": 61,
+  "study_hours_weekly": 6,
+  "grades": {
+   "assignment_1": 42.0,
+   "assignment_2": 41.0,
+   "quiz": 41.0,
+   "midterm": 46.0,
+   "final": 39.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 41
+   },
+   {
+    "period": "2026-W8",
+    "average": 41
+   },
+   {
+    "period": "2026-W12",
+    "average": 42
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 64
+   }
+  ]
+ },
+ {
+  "student_id": "S010",
+  "name": "Student 010",
+  "course_code": "MAT101",
+  "course_name": "College Algebra",
+  "section_id": "MAT101-B",
+  "section_label": "B",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-okafor",
+  "instructor_name": "Prof. Okafor",
+  "credit_hours": 4,
+  "attendance_rate": 75,
+  "study_hours_weekly": 6,
+  "grades": {
+   "assignment_1": 52.0,
+   "assignment_2": 46.0,
+   "quiz": 46.0,
+   "midterm": 44.0,
+   "final": 48.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 47
+   },
+   {
+    "period": "2026-W8",
+    "average": 47
+   },
+   {
+    "period": "2026-W12",
+    "average": 47
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 72
+   }
+  ]
+ },
+ {
+  "student_id": "S011",
+  "name": "Student 011",
+  "course_code": "CHE101",
+  "course_name": "Chemistry I",
+  "section_id": "CHE101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-nguyen",
+  "instructor_name": "Prof. Nguyen",
+  "credit_hours": 4,
+  "attendance_rate": 82,
+  "study_hours_weekly": 10,
+  "grades": {
+   "assignment_1": 80.0,
+   "quiz": 74.0,
+   "midterm": 77.0,
+   "final": 76.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 80
+   },
+   {
+    "period": "2026-W8",
+    "average": 79
+   },
+   {
+    "period": "2026-W12",
+    "average": 78
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 80
+   }
+  ]
+ },
+ {
+  "student_id": "S011",
+  "name": "Student 011",
+  "course_code": "BIO101",
+  "course_name": "Biology I",
+  "section_id": "BIO101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-silva",
+  "instructor_name": "Dr. Silva",
+  "credit_hours": 4,
+  "attendance_rate": 89,
+  "study_hours_weekly": 9,
+  "grades": {
+   "assignment_1": 73.0,
+   "assignment_2": 74.0,
+   "quiz": 75.0,
+   "midterm": 79.0,
+   "final": 71.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 76
+   },
+   {
+    "period": "2026-W8",
+    "average": 75
+   },
+   {
+    "period": "2026-W12",
+    "average": 75
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 87
+   }
+  ]
+ },
+ {
+  "student_id": "S011",
+  "name": "Student 011",
+  "course_code": "MAT101",
+  "course_name": "College Algebra",
+  "section_id": "MAT101-B",
+  "section_label": "B",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-okafor",
+  "instructor_name": "Prof. Okafor",
+  "credit_hours": 4,
+  "attendance_rate": 98,
+  "study_hours_weekly": 6,
+  "grades": {
+   "assignment_1": 79.0,
+   "assignment_2": 80.0,
+   "quiz": 74.0,
+   "midterm": 88.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 81
+   },
+   {
+    "period": "2026-W8",
+    "average": 81
+   },
+   {
+    "period": "2026-W12",
+    "average": 80
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 97
+   }
+  ]
+ },
+ {
+  "student_id": "S012",
+  "name": "Student 012",
+  "course_code": "PHY101",
+  "course_name": "Physics I",
+  "section_id": "PHY101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-chen",
+  "instructor_name": "Dr. Chen",
+  "credit_hours": 4,
+  "attendance_rate": 88,
+  "study_hours_weekly": 9,
+  "grades": {
+   "assignment_1": 58.0,
+   "assignment_2": 67.0,
+   "quiz": 57.0,
+   "midterm": 59.0,
+   "final": 62.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 57
+   },
+   {
+    "period": "2026-W8",
+    "average": 58
+   },
+   {
+    "period": "2026-W12",
+    "average": 59
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 91
+   }
+  ]
+ },
+ {
+  "student_id": "S012",
+  "name": "Student 012",
+  "course_code": "BIO101",
+  "course_name": "Biology I",
+  "section_id": "BIO101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-silva",
+  "instructor_name": "Dr. Silva",
+  "credit_hours": 4,
+  "attendance_rate": 89,
+  "study_hours_weekly": 7,
+  "grades": {
+   "assignment_1": 57.0,
+   "assignment_2": 69.0,
+   "quiz": 64.0,
+   "midterm": 64.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 63
+   },
+   {
+    "period": "2026-W8",
+    "average": 63
+   },
+   {
+    "period": "2026-W12",
+    "average": 63
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 86
+   }
+  ]
+ },
+ {
+  "student_id": "S012",
+  "name": "Student 012",
+  "course_code": "CHE101",
+  "course_name": "Chemistry I",
+  "section_id": "CHE101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-nguyen",
+  "instructor_name": "Prof. Nguyen",
+  "credit_hours": 4,
+  "attendance_rate": 93,
+  "study_hours_weekly": 9,
+  "grades": {
+   "assignment_1": 52.0,
+   "assignment_2": 63.0,
+   "quiz": 65.0,
+   "midterm": 58.0,
+   "final": 59.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 81
+   },
+   {
+    "period": "2026-W8",
+    "average": 74
+   },
+   {
+    "period": "2026-W12",
+    "average": 67
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 93
+   }
+  ]
+ },
+ {
+  "student_id": "S013",
+  "name": "Student 013",
+  "course_code": "MAT101",
+  "course_name": "College Algebra",
+  "section_id": "MAT101-B",
+  "section_label": "B",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-okafor",
+  "instructor_name": "Prof. Okafor",
+  "credit_hours": 4,
+  "attendance_rate": 96,
+  "study_hours_weekly": 11,
+  "grades": {
+   "assignment_1": 80.0,
+   "assignment_2": 81.0,
+   "quiz": 63.0,
+   "midterm": 71.0,
+   "final": 73.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 70
+   },
+   {
+    "period": "2026-W8",
+    "average": 71
+   },
+   {
+    "period": "2026-W12",
+    "average": 72
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 94
+   }
+  ]
+ },
+ {
+  "student_id": "S013",
+  "name": "Student 013",
+  "course_code": "PHY101",
+  "course_name": "Physics I",
+  "section_id": "PHY101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-chen",
+  "instructor_name": "Dr. Chen",
+  "credit_hours": 4,
+  "attendance_rate": 88,
+  "study_hours_weekly": 6,
+  "grades": {
+   "assignment_1": 74.0,
+   "assignment_2": 72.0,
+   "quiz": 61.0,
+   "midterm": 67.0,
+   "final": 75.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 67
+   },
+   {
+    "period": "2026-W8",
+    "average": 68
+   },
+   {
+    "period": "2026-W12",
+    "average": 69
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 88
+   }
+  ]
+ },
+ {
+  "student_id": "S013",
+  "name": "Student 013",
+  "course_code": "HIS110",
+  "course_name": "World History",
+  "section_id": "HIS110-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-okafor",
+  "instructor_name": "Prof. Okafor",
+  "credit_hours": 3,
+  "attendance_rate": 100,
+  "study_hours_weekly": 9,
+  "grades": {
+   "assignment_1": 79.0,
+   "assignment_2": 72.0,
+   "quiz": 69.0,
+   "midterm": 80.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 73
+   },
+   {
+    "period": "2026-W8",
+    "average": 74
+   },
+   {
+    "period": "2026-W12",
+    "average": 74
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 100
+   }
+  ]
+ },
+ {
+  "student_id": "S013",
+  "name": "Student 013",
+  "course_code": "BIO101",
+  "course_name": "Biology I",
+  "section_id": "BIO101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-silva",
+  "instructor_name": "Dr. Silva",
+  "credit_hours": 4,
+  "attendance_rate": 100,
+  "study_hours_weekly": 9,
+  "grades": {
+   "assignment_1": 79.0,
+   "assignment_2": 78.0,
+   "quiz": 75.0,
+   "midterm": 88.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 81
+   },
+   {
+    "period": "2026-W8",
+    "average": 81
+   },
+   {
+    "period": "2026-W12",
+    "average": 80
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 99
+   }
+  ]
+ },
+ {
+  "student_id": "S014",
+  "name": "Student 014",
+  "course_code": "ENG102",
+  "course_name": "Academic Writing",
+  "section_id": "ENG102-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-nguyen",
+  "instructor_name": "Prof. Nguyen",
+  "credit_hours": 3,
+  "attendance_rate": 83,
+  "study_hours_weekly": 9,
+  "grades": {
+   "assignment_1": 96.0,
+   "assignment_2": 99.0,
+   "quiz": 99.0,
+   "midterm": 92.0,
+   "final": 99.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 95
+   },
+   {
+    "period": "2026-W8",
+    "average": 96
+   },
+   {
+    "period": "2026-W12",
+    "average": 96
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 81
+   }
+  ]
+ },
+ {
+  "student_id": "S014",
+  "name": "Student 014",
+  "course_code": "PHY101",
+  "course_name": "Physics I",
+  "section_id": "PHY101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-chen",
+  "instructor_name": "Dr. Chen",
+  "credit_hours": 4,
+  "attendance_rate": 85,
+  "study_hours_weekly": 9,
+  "grades": {
+   "assignment_1": 82.0,
+   "assignment_2": 82.0,
+   "quiz": 87.0,
+   "midterm": 81.0,
+   "final": 87.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 85
+   },
+   {
+    "period": "2026-W8",
+    "average": 85
+   },
+   {
+    "period": "2026-W12",
+    "average": 84
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 87
+   }
+  ]
+ },
+ {
+  "student_id": "S014",
+  "name": "Student 014",
+  "course_code": "CSC110",
+  "course_name": "Introduction to Programming",
+  "section_id": "CSC110-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-silva",
+  "instructor_name": "Dr. Silva",
+  "credit_hours": 3,
+  "attendance_rate": 93,
+  "study_hours_weekly": 9,
+  "grades": {
+   "assignment_1": 88.0,
+   "assignment_2": 87.0,
+   "quiz": 83.0,
+   "midterm": 85.0,
+   "final": 92.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 100
+   },
+   {
+    "period": "2026-W8",
+    "average": 100
+   },
+   {
+    "period": "2026-W12",
+    "average": 95
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 100
+   }
+  ]
+ },
+ {
+  "student_id": "S015",
+  "name": "Student 015",
+  "course_code": "CHE101",
+  "course_name": "Chemistry I",
+  "section_id": "CHE101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-nguyen",
+  "instructor_name": "Prof. Nguyen",
+  "credit_hours": 4,
+  "attendance_rate": 69,
+  "study_hours_weekly": 8,
+  "grades": {
+   "assignment_1": 65.0,
+   "assignment_2": 61.0,
+   "quiz": 61.0,
+   "midterm": 62.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 62
+   },
+   {
+    "period": "2026-W8",
+    "average": 62
+   },
+   {
+    "period": "2026-W12",
+    "average": 62
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 70
+   }
+  ]
+ },
+ {
+  "student_id": "S015",
+  "name": "Student 015",
+  "course_code": "MAT101",
+  "course_name": "College Algebra",
+  "section_id": "MAT101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-chen",
+  "instructor_name": "Dr. Chen",
+  "credit_hours": 4,
+  "attendance_rate": 66,
+  "study_hours_weekly": 5,
+  "grades": {
+   "assignment_1": 71.0,
+   "assignment_2": 64.0,
+   "quiz": 69.0,
+   "midterm": 60.0,
+   "final": 62.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 67
+   },
+   {
+    "period": "2026-W8",
+    "average": 67
+   },
+   {
+    "period": "2026-W12",
+    "average": 66
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 65
+   }
+  ]
+ },
+ {
+  "student_id": "S015",
+  "name": "Student 015",
+  "course_code": "BIO101",
+  "course_name": "Biology I",
+  "section_id": "BIO101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-silva",
+  "instructor_name": "Dr. Silva",
+  "credit_hours": 4,
+  "attendance_rate": 59,
+  "study_hours_weekly": 7,
+  "grades": {
+   "assignment_1": 51.0,
+   "assignment_2": 50.0,
+   "midterm": 46.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 67
+   },
+   {
+    "period": "2026-W8",
+    "average": 61
+   },
+   {
+    "period": "2026-W12",
+    "average": 55
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 57
+   }
+  ]
+ },
+ {
+  "student_id": "S015",
+  "name": "Student 015",
+  "course_code": "PHY101",
+  "course_name": "Physics I",
+  "section_id": "PHY101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-chen",
+  "instructor_name": "Dr. Chen",
+  "credit_hours": 4,
+  "attendance_rate": 68,
+  "study_hours_weekly": 6,
+  "grades": {
+   "assignment_1": 43.0,
+   "assignment_2": 46.0,
+   "quiz": 52.0,
+   "midterm": 49.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 49
+   },
+   {
+    "period": "2026-W8",
+    "average": 49
+   },
+   {
+    "period": "2026-W12",
+    "average": 48
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 70
+   }
+  ]
+ },
+ {
+  "student_id": "S016",
+  "name": "Student 016",
+  "course_code": "CSC110",
+  "course_name": "Introduction to Programming",
+  "section_id": "CSC110-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-silva",
+  "instructor_name": "Dr. Silva",
+  "credit_hours": 3,
+  "attendance_rate": 93,
+  "study_hours_weekly": 12,
+  "grades": {
+   "assignment_1": 64.0,
+   "assignment_2": 71.0,
+   "quiz": 66.0,
+   "midterm": 67.0,
+   "final": 63.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 68
+   },
+   {
+    "period": "2026-W8",
+    "average": 67
+   },
+   {
+    "period": "2026-W12",
+    "average": 67
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 92
+   }
+  ]
+ },
+ {
+  "student_id": "S016",
+  "name": "Student 016",
+  "course_code": "CHE101",
+  "course_name": "Chemistry I",
+  "section_id": "CHE101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-nguyen",
+  "instructor_name": "Prof. Nguyen",
+  "credit_hours": 4,
+  "attendance_rate": 88,
+  "study_hours_weekly": 9,
+  "grades": {
+   "assignment_1": 71.0,
+   "assignment_2": 67.0,
+   "quiz": 70.0,
+   "midterm": 78.0,
+   "final": 74.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 87
+   },
+   {
+    "period": "2026-W8",
+    "average": 82
+   },
+   {
+    "period": "2026-W12",
+    "average": 77
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 100
+   }
+  ]
+ },
+ {
+  "student_id": "S016",
+  "name": "Student 016",
+  "course_code": "BIO101",
+  "course_name": "Biology I",
+  "section_id": "BIO101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-silva",
+  "instructor_name": "Dr. Silva",
+  "credit_hours": 4,
+  "attendance_rate": 87,
+  "study_hours_weekly": 9,
+  "grades": {
+   "assignment_1": 62.0,
+   "assignment_2": 75.0,
+   "quiz": 74.0,
+   "midterm": 71.0,
+   "final": 71.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 72
+   },
+   {
+    "period": "2026-W8",
+    "average": 72
+   },
+   {
+    "period": "2026-W12",
+    "average": 71
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 86
+   }
+  ]
+ },
+ {
+  "student_id": "S017",
+  "name": "Student 017",
+  "course_code": "ENG102",
+  "course_name": "Academic Writing",
+  "section_id": "ENG102-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-nguyen",
+  "instructor_name": "Prof. Nguyen",
+  "credit_hours": 3,
+  "attendance_rate": 87,
+  "study_hours_weekly": 10,
+  "grades": {
+   "assignment_1": 94.0,
+   "assignment_2": 88.0,
+   "quiz": 91.0,
+   "midterm": 93.0,
+   "final": 86.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 94
+   },
+   {
+    "period": "2026-W8",
+    "average": 93
+   },
+   {
+    "period": "2026-W12",
+    "average": 92
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 87
+   }
+  ]
+ },
+ {
+  "student_id": "S017",
+  "name": "Student 017",
+  "course_code": "BIO101",
+  "course_name": "Biology I",
+  "section_id": "BIO101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-silva",
+  "instructor_name": "Dr. Silva",
+  "credit_hours": 4,
+  "attendance_rate": 90,
+  "study_hours_weekly": 9,
+  "grades": {
+   "assignment_1": 84.0,
+   "assignment_2": 85.0,
+   "quiz": 84.0,
+   "midterm": 89.0,
+   "final": 85.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 85
+   },
+   {
+    "period": "2026-W8",
+    "average": 85
+   },
+   {
+    "period": "2026-W12",
+    "average": 85
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 89
+   }
+  ]
+ },
+ {
+  "student_id": "S017",
+  "name": "Student 017",
+  "course_code": "HIS110",
+  "course_name": "World History",
+  "section_id": "HIS110-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-okafor",
+  "instructor_name": "Prof. Okafor",
+  "credit_hours": 3,
+  "attendance_rate": 89,
+  "study_hours_weekly": 8,
+  "grades": {
+   "assignment_1": 86.0,
+   "assignment_2": 89.0,
+   "quiz": 89.0,
+   "midterm": 77.0,
+   "final": 91.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 87
+   },
+   {
+    "period": "2026-W8",
+    "average": 87
+   },
+   {
+    "period": "2026-W12",
+    "average": 87
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 90
+   }
+  ]
+ },
+ {
+  "student_id": "S018",
+  "name": "Student 018",
+  "course_code": "PHY101",
+  "course_name": "Physics I",
+  "section_id": "PHY101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-chen",
+  "instructor_name": "Dr. Chen",
+  "credit_hours": 4,
+  "attendance_rate": 96,
+  "study_hours_weekly": 12,
+  "grades": {
+   "assignment_1": 69.0,
+   "assignment_2": 74.0,
+   "quiz": 66.0,
+   "midterm": 59.0,
+   "final": 63.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 90
+   },
+   {
+    "period": "2026-W8",
+    "average": 82
+   },
+   {
+    "period": "2026-W12",
+    "average": 74
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 100
+   }
+  ]
+ },
+ {
+  "student_id": "S018",
+  "name": "Student 018",
+  "course_code": "ENG102",
+  "course_name": "Academic Writing",
+  "section_id": "ENG102-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-nguyen",
+  "instructor_name": "Prof. Nguyen",
+  "credit_hours": 3,
+  "attendance_rate": 100,
+  "study_hours_weekly": 8,
+  "grades": {
+   "assignment_1": 75.0,
+   "assignment_2": 82.0,
+   "quiz": 79.0,
+   "midterm": 84.0,
+   "final": 85.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 79
+   },
+   {
+    "period": "2026-W8",
+    "average": 79
+   },
+   {
+    "period": "2026-W12",
+    "average": 80
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 100
+   }
+  ]
+ },
+ {
+  "student_id": "S018",
+  "name": "Student 018",
+  "course_code": "BIO101",
+  "course_name": "Biology I",
+  "section_id": "BIO101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-silva",
+  "instructor_name": "Dr. Silva",
+  "credit_hours": 4,
+  "attendance_rate": 100,
+  "study_hours_weekly": 11,
+  "grades": {
+   "assignment_1": 78.0,
+   "assignment_2": 74.0,
+   "quiz": 74.0,
+   "midterm": 76.0,
+   "final": 71.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 71
+   },
+   {
+    "period": "2026-W8",
+    "average": 72
+   },
+   {
+    "period": "2026-W12",
+    "average": 73
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 97
+   }
+  ]
+ },
+ {
+  "student_id": "S018",
+  "name": "Student 018",
+  "course_code": "CSC110",
+  "course_name": "Introduction to Programming",
+  "section_id": "CSC110-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-silva",
+  "instructor_name": "Dr. Silva",
+  "credit_hours": 3,
+  "attendance_rate": 91,
+  "study_hours_weekly": 8,
+  "grades": {
+   "assignment_1": 66.0,
+   "assignment_2": 59.0,
+   "quiz": 60.0,
+   "midterm": 66.0,
+   "final": 70.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 63
+   },
+   {
+    "period": "2026-W8",
+    "average": 63
+   },
+   {
+    "period": "2026-W12",
+    "average": 64
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 92
+   }
+  ]
+ },
+ {
+  "student_id": "S019",
+  "name": "Student 019",
+  "course_code": "CHE101",
+  "course_name": "Chemistry I",
+  "section_id": "CHE101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-nguyen",
+  "instructor_name": "Prof. Nguyen",
+  "credit_hours": 4,
+  "attendance_rate": 75,
+  "study_hours_weekly": 12,
+  "grades": {
+   "assignment_1": 92.0,
+   "assignment_2": 88.0,
+   "quiz": 79.0,
+   "midterm": 94.0,
+   "final": 80.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 86
+   },
+   {
+    "period": "2026-W8",
+    "average": 86
+   },
+   {
+    "period": "2026-W12",
+    "average": 86
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 77
+   }
+  ]
+ },
+ {
+  "student_id": "S019",
+  "name": "Student 019",
+  "course_code": "BIO101",
+  "course_name": "Biology I",
+  "section_id": "BIO101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-silva",
+  "instructor_name": "Dr. Silva",
+  "credit_hours": 4,
+  "attendance_rate": 74,
+  "study_hours_weekly": 9,
+  "grades": {
+   "assignment_1": 99.0,
+   "assignment_2": 96.0,
+   "quiz": 99.0,
+   "midterm": 100.0,
+   "final": 88.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 95
+   },
+   {
+    "period": "2026-W8",
+    "average": 95
+   },
+   {
+    "period": "2026-W12",
+    "average": 96
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 73
+   }
+  ]
+ },
+ {
+  "student_id": "S019",
+  "name": "Student 019",
+  "course_code": "HIS110",
+  "course_name": "World History",
+  "section_id": "HIS110-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-okafor",
+  "instructor_name": "Prof. Okafor",
+  "credit_hours": 3,
+  "attendance_rate": 77,
+  "study_hours_weekly": 8,
+  "grades": {
+   "assignment_1": 82.0,
+   "quiz": 74.0,
+   "midterm": 80.0,
+   "final": 70.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 77
+   },
+   {
+    "period": "2026-W8",
+    "average": 77
+   },
+   {
+    "period": "2026-W12",
+    "average": 77
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 77
+   }
+  ]
+ },
+ {
+  "student_id": "S019",
+  "name": "Student 019",
+  "course_code": "ENG102",
+  "course_name": "Academic Writing",
+  "section_id": "ENG102-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-nguyen",
+  "instructor_name": "Prof. Nguyen",
+  "credit_hours": 3,
+  "attendance_rate": 82,
+  "study_hours_weekly": 10,
+  "grades": {
+   "assignment_1": 95.0,
+   "assignment_2": 98.0,
+   "quiz": 94.0,
+   "midterm": 94.0,
+   "final": 100.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 100
+   },
+   {
+    "period": "2026-W8",
+    "average": 98
+   },
+   {
+    "period": "2026-W12",
+    "average": 97
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 84
+   }
+  ]
+ },
+ {
+  "student_id": "S020",
+  "name": "Student 020",
+  "course_code": "MAT101",
+  "course_name": "College Algebra",
+  "section_id": "MAT101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-chen",
+  "instructor_name": "Dr. Chen",
+  "credit_hours": 4,
+  "attendance_rate": 73,
+  "study_hours_weekly": 6,
+  "grades": {
+   "assignment_1": 38.0,
+   "assignment_2": 25.0,
+   "midterm": 25.0,
+   "final": 29.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 26
+   },
+   {
+    "period": "2026-W8",
+    "average": 27
+   },
+   {
+    "period": "2026-W12",
+    "average": 28
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 71
+   }
+  ]
+ },
+ {
+  "student_id": "S020",
+  "name": "Student 020",
+  "course_code": "ENG102",
+  "course_name": "Academic Writing",
+  "section_id": "ENG102-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-nguyen",
+  "instructor_name": "Prof. Nguyen",
+  "credit_hours": 3,
+  "attendance_rate": 69,
+  "study_hours_weekly": 7,
+  "grades": {
+   "assignment_1": 39.0,
+   "assignment_2": 47.0,
+   "quiz": 51.0,
+   "midterm": 46.0,
+   "final": 43.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 46
+   },
+   {
+    "period": "2026-W8",
+    "average": 46
+   },
+   {
+    "period": "2026-W12",
+    "average": 46
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 67
+   }
+  ]
+ },
+ {
+  "student_id": "S020",
+  "name": "Student 020",
+  "course_code": "CSC110",
+  "course_name": "Introduction to Programming",
+  "section_id": "CSC110-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-silva",
+  "instructor_name": "Dr. Silva",
+  "credit_hours": 3,
+  "attendance_rate": 76,
+  "study_hours_weekly": 5,
+  "grades": {
+   "assignment_1": 51.0,
+   "assignment_2": 49.0,
+   "quiz": 45.0,
+   "midterm": 46.0,
+   "final": 49.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 49
+   },
+   {
+    "period": "2026-W8",
+    "average": 49
+   },
+   {
+    "period": "2026-W12",
+    "average": 48
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 78
+   }
+  ]
+ },
+ {
+  "student_id": "S021",
+  "name": "Student 021",
+  "course_code": "HIS110",
+  "course_name": "World History",
+  "section_id": "HIS110-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-okafor",
+  "instructor_name": "Prof. Okafor",
+  "credit_hours": 3,
+  "attendance_rate": 93,
+  "study_hours_weekly": 9,
+  "grades": {
+   "assignment_1": 72.0,
+   "assignment_2": 73.0,
+   "quiz": 77.0,
+   "midterm": 69.0,
+   "final": 74.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 73
+   },
+   {
+    "period": "2026-W8",
+    "average": 73
+   },
+   {
+    "period": "2026-W12",
+    "average": 73
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 93
+   }
+  ]
+ },
+ {
+  "student_id": "S021",
+  "name": "Student 021",
+  "course_code": "CHE101",
+  "course_name": "Chemistry I",
+  "section_id": "CHE101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-nguyen",
+  "instructor_name": "Prof. Nguyen",
+  "credit_hours": 4,
+  "attendance_rate": 98,
+  "study_hours_weekly": 10,
+  "grades": {
+   "assignment_1": 76.0,
+   "assignment_2": 72.0,
+   "quiz": 81.0,
+   "midterm": 71.0,
+   "final": 73.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 71
+   },
+   {
+    "period": "2026-W8",
+    "average": 72
+   },
+   {
+    "period": "2026-W12",
+    "average": 74
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 96
+   }
+  ]
+ },
+ {
+  "student_id": "S021",
+  "name": "Student 021",
+  "course_code": "ENG102",
+  "course_name": "Academic Writing",
+  "section_id": "ENG102-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-nguyen",
+  "instructor_name": "Prof. Nguyen",
+  "credit_hours": 3,
+  "attendance_rate": 94,
+  "study_hours_weekly": 4,
+  "grades": {
+   "assignment_1": 91.0,
+   "assignment_2": 88.0,
+   "quiz": 82.0,
+   "midterm": 84.0,
+   "final": 89.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 84
+   },
+   {
+    "period": "2026-W8",
+    "average": 85
+   },
+   {
+    "period": "2026-W12",
+    "average": 86
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 92
+   }
+  ]
+ },
+ {
+  "student_id": "S022",
+  "name": "Student 022",
+  "course_code": "BIO101",
+  "course_name": "Biology I",
+  "section_id": "BIO101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-silva",
+  "instructor_name": "Dr. Silva",
+  "credit_hours": 4,
+  "attendance_rate": 81,
+  "study_hours_weekly": 11,
+  "grades": {
+   "assignment_1": 59.0,
+   "assignment_2": 68.0,
+   "quiz": 59.0,
+   "midterm": 66.0,
+   "final": 63.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 60
+   },
+   {
+    "period": "2026-W8",
+    "average": 61
+   },
+   {
+    "period": "2026-W12",
+    "average": 62
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 82
+   }
+  ]
+ },
+ {
+  "student_id": "S022",
+  "name": "Student 022",
+  "course_code": "MAT101",
+  "course_name": "College Algebra",
+  "section_id": "MAT101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-chen",
+  "instructor_name": "Dr. Chen",
+  "credit_hours": 4,
+  "attendance_rate": 81,
+  "study_hours_weekly": 10,
+  "grades": {
+   "assignment_1": 77.0,
+   "assignment_2": 69.0,
+   "quiz": 73.0,
+   "midterm": 73.0,
+   "final": 70.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 92
+   },
+   {
+    "period": "2026-W8",
+    "average": 86
+   },
+   {
+    "period": "2026-W12",
+    "average": 79
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 100
+   }
+  ]
+ },
+ {
+  "student_id": "S022",
+  "name": "Student 022",
+  "course_code": "ENG102",
+  "course_name": "Academic Writing",
+  "section_id": "ENG102-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-nguyen",
+  "instructor_name": "Prof. Nguyen",
+  "credit_hours": 3,
+  "attendance_rate": 86,
+  "study_hours_weekly": 7,
+  "grades": {
+   "assignment_1": 74.0,
+   "assignment_2": 75.0,
+   "quiz": 67.0,
+   "midterm": 81.0,
+   "final": 71.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 92
+   },
+   {
+    "period": "2026-W8",
+    "average": 86
+   },
+   {
+    "period": "2026-W12",
+    "average": 80
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 87
+   }
+  ]
+ },
+ {
+  "student_id": "S022",
+  "name": "Student 022",
+  "course_code": "PHY101",
+  "course_name": "Physics I",
+  "section_id": "PHY101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-chen",
+  "instructor_name": "Dr. Chen",
+  "credit_hours": 4,
+  "attendance_rate": 87,
+  "study_hours_weekly": 8,
+  "grades": {
+   "assignment_1": 62.0,
+   "assignment_2": 65.0,
+   "quiz": 75.0,
+   "midterm": 64.0,
+   "final": 65.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 68
+   },
+   {
+    "period": "2026-W8",
+    "average": 68
+   },
+   {
+    "period": "2026-W12",
+    "average": 67
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 87
+   }
+  ]
+ },
+ {
+  "student_id": "S023",
+  "name": "Student 023",
+  "course_code": "CHE101",
+  "course_name": "Chemistry I",
+  "section_id": "CHE101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-nguyen",
+  "instructor_name": "Prof. Nguyen",
+  "credit_hours": 4,
+  "attendance_rate": 90,
+  "study_hours_weekly": 5,
+  "grades": {
+   "assignment_1": 52.0,
+   "assignment_2": 64.0,
+   "quiz": 58.0,
+   "midterm": 62.0,
+   "final": 55.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 61
+   },
+   {
+    "period": "2026-W8",
+    "average": 60
+   },
+   {
+    "period": "2026-W12",
+    "average": 59
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 93
+   }
+  ]
+ },
+ {
+  "student_id": "S023",
+  "name": "Student 023",
+  "course_code": "ENG102",
+  "course_name": "Academic Writing",
+  "section_id": "ENG102-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-nguyen",
+  "instructor_name": "Prof. Nguyen",
+  "credit_hours": 3,
+  "attendance_rate": 99,
+  "study_hours_weekly": 9,
+  "grades": {
+   "assignment_1": 85.0,
+   "quiz": 87.0,
+   "midterm": 86.0,
+   "final": 98.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 89
+   },
+   {
+    "period": "2026-W8",
+    "average": 89
+   },
+   {
+    "period": "2026-W12",
+    "average": 89
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 100
+   }
+  ]
+ },
+ {
+  "student_id": "S023",
+  "name": "Student 023",
+  "course_code": "PHY101",
+  "course_name": "Physics I",
+  "section_id": "PHY101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-chen",
+  "instructor_name": "Dr. Chen",
+  "credit_hours": 4,
+  "attendance_rate": 92,
+  "study_hours_weekly": 13,
+  "grades": {
+   "assignment_1": 71.0,
+   "assignment_2": 71.0,
+   "quiz": 78.0,
+   "midterm": 81.0,
+   "final": 73.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 74
+   },
+   {
+    "period": "2026-W8",
+    "average": 74
+   },
+   {
+    "period": "2026-W12",
+    "average": 75
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 95
+   }
+  ]
+ },
+ {
+  "student_id": "S024",
+  "name": "Student 024",
+  "course_code": "ENG102",
+  "course_name": "Academic Writing",
+  "section_id": "ENG102-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-nguyen",
+  "instructor_name": "Prof. Nguyen",
+  "credit_hours": 3,
+  "attendance_rate": 100,
+  "study_hours_weekly": 11,
+  "grades": {
+   "assignment_1": 63.0,
+   "assignment_2": 67.0,
+   "quiz": 55.0,
+   "midterm": 60.0,
+   "final": 69.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 63
+   },
+   {
+    "period": "2026-W8",
+    "average": 63
+   },
+   {
+    "period": "2026-W12",
+    "average": 63
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 100
+   }
+  ]
+ },
+ {
+  "student_id": "S024",
+  "name": "Student 024",
+  "course_code": "HIS110",
+  "course_name": "World History",
+  "section_id": "HIS110-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-okafor",
+  "instructor_name": "Prof. Okafor",
+  "credit_hours": 3,
+  "attendance_rate": 100,
+  "study_hours_weekly": 11,
+  "grades": {
+   "assignment_1": 66.0,
+   "assignment_2": 68.0,
+   "quiz": 66.0,
+   "midterm": 74.0,
+   "final": 68.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 70
+   },
+   {
+    "period": "2026-W8",
+    "average": 69
+   },
+   {
+    "period": "2026-W12",
+    "average": 69
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 100
+   }
+  ]
+ },
+ {
+  "student_id": "S024",
+  "name": "Student 024",
+  "course_code": "MAT101",
+  "course_name": "College Algebra",
+  "section_id": "MAT101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-chen",
+  "instructor_name": "Dr. Chen",
+  "credit_hours": 4,
+  "attendance_rate": 99,
+  "study_hours_weekly": 10,
+  "grades": {
+   "assignment_1": 64.0,
+   "assignment_2": 64.0,
+   "quiz": 73.0,
+   "midterm": 66.0,
+   "final": 73.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 71
+   },
+   {
+    "period": "2026-W8",
+    "average": 70
+   },
+   {
+    "period": "2026-W12",
+    "average": 69
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 100
+   }
+  ]
+ },
+ {
+  "student_id": "S025",
+  "name": "Student 025",
+  "course_code": "CSC110",
+  "course_name": "Introduction to Programming",
+  "section_id": "CSC110-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-silva",
+  "instructor_name": "Dr. Silva",
+  "credit_hours": 3,
+  "attendance_rate": 73,
+  "study_hours_weekly": 12,
+  "grades": {
+   "assignment_1": 40.0,
+   "assignment_2": 31.0,
+   "quiz": 37.0,
+   "midterm": 35.0,
+   "final": 29.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 32
+   },
+   {
+    "period": "2026-W8",
+    "average": 33
+   },
+   {
+    "period": "2026-W12",
+    "average": 34
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 73
+   }
+  ]
+ },
+ {
+  "student_id": "S025",
+  "name": "Student 025",
+  "course_code": "ENG102",
+  "course_name": "Academic Writing",
+  "section_id": "ENG102-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-nguyen",
+  "instructor_name": "Prof. Nguyen",
+  "credit_hours": 3,
+  "attendance_rate": 75,
+  "study_hours_weekly": 7,
+  "grades": {
+   "assignment_1": 43.0,
+   "assignment_2": 35.0,
+   "quiz": 40.0,
+   "midterm": 39.0,
+   "final": 41.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 39
+   },
+   {
+    "period": "2026-W8",
+    "average": 39
+   },
+   {
+    "period": "2026-W12",
+    "average": 39
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 75
+   }
+  ]
+ },
+ {
+  "student_id": "S025",
+  "name": "Student 025",
+  "course_code": "PHY101",
+  "course_name": "Physics I",
+  "section_id": "PHY101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-chen",
+  "instructor_name": "Dr. Chen",
+  "credit_hours": 4,
+  "attendance_rate": 70,
+  "study_hours_weekly": 9,
+  "grades": {
+   "assignment_1": 22.0,
+   "assignment_2": 27.0,
+   "quiz": 25.0,
+   "midterm": 22.0,
+   "final": 20.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 22
+   },
+   {
+    "period": "2026-W8",
+    "average": 22
+   },
+   {
+    "period": "2026-W12",
+    "average": 23
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 73
+   }
+  ]
+ },
+ {
+  "student_id": "S025",
+  "name": "Student 025",
+  "course_code": "HIS110",
+  "course_name": "World History",
+  "section_id": "HIS110-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-okafor",
+  "instructor_name": "Prof. Okafor",
+  "credit_hours": 3,
+  "attendance_rate": 69,
+  "study_hours_weekly": 6,
+  "grades": {
+   "assignment_1": 33.0,
+   "assignment_2": 31.0,
+   "quiz": 41.0,
+   "midterm": 49.0,
+   "final": 31.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 34
+   },
+   {
+    "period": "2026-W8",
+    "average": 35
+   },
+   {
+    "period": "2026-W12",
+    "average": 36
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 70
+   }
+  ]
+ },
+ {
+  "student_id": "S026",
+  "name": "Student 026",
+  "course_code": "PHY101",
+  "course_name": "Physics I",
+  "section_id": "PHY101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-chen",
+  "instructor_name": "Dr. Chen",
+  "credit_hours": 4,
+  "attendance_rate": 84,
+  "study_hours_weekly": 8,
+  "grades": {
+   "assignment_1": 60.0,
+   "assignment_2": 62.0,
+   "quiz": 71.0,
+   "midterm": 57.0,
+   "final": 66.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 67
+   },
+   {
+    "period": "2026-W8",
+    "average": 66
+   },
+   {
+    "period": "2026-W12",
+    "average": 65
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 87
+   }
+  ]
+ },
+ {
+  "student_id": "S026",
+  "name": "Student 026",
+  "course_code": "CHE101",
+  "course_name": "Chemistry I",
+  "section_id": "CHE101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-nguyen",
+  "instructor_name": "Prof. Nguyen",
+  "credit_hours": 4,
+  "attendance_rate": 86,
+  "study_hours_weekly": 8,
+  "grades": {
+   "assignment_1": 74.0,
+   "assignment_2": 73.0,
+   "quiz": 86.0,
+   "midterm": 77.0,
+   "final": 72.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 96
+   },
+   {
+    "period": "2026-W8",
+    "average": 90
+   },
+   {
+    "period": "2026-W12",
+    "average": 83
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 88
+   }
+  ]
+ },
+ {
+  "student_id": "S026",
+  "name": "Student 026",
+  "course_code": "MAT101",
+  "course_name": "College Algebra",
+  "section_id": "MAT101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-chen",
+  "instructor_name": "Dr. Chen",
+  "credit_hours": 4,
+  "attendance_rate": 75,
+  "study_hours_weekly": 9,
+  "grades": {
+   "assignment_1": 77.0,
+   "assignment_2": 81.0,
+   "midterm": 80.0,
+   "final": 73.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 78
+   },
+   {
+    "period": "2026-W8",
+    "average": 78
+   },
+   {
+    "period": "2026-W12",
+    "average": 78
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 76
+   }
+  ]
+ },
+ {
+  "student_id": "S027",
+  "name": "Student 027",
+  "course_code": "ENG102",
+  "course_name": "Academic Writing",
+  "section_id": "ENG102-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-nguyen",
+  "instructor_name": "Prof. Nguyen",
+  "credit_hours": 3,
+  "attendance_rate": 79,
+  "study_hours_weekly": 7,
+  "grades": {
+   "assignment_1": 94.0,
+   "assignment_2": 97.0,
+   "quiz": 94.0,
+   "midterm": 100.0,
+   "final": 98.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 97
+   },
+   {
+    "period": "2026-W8",
+    "average": 97
+   },
+   {
+    "period": "2026-W12",
+    "average": 97
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 80
+   }
+  ]
+ },
+ {
+  "student_id": "S027",
+  "name": "Student 027",
+  "course_code": "CHE101",
+  "course_name": "Chemistry I",
+  "section_id": "CHE101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-nguyen",
+  "instructor_name": "Prof. Nguyen",
+  "credit_hours": 4,
+  "attendance_rate": 79,
+  "study_hours_weekly": 7,
+  "grades": {
+   "assignment_1": 88.0,
+   "assignment_2": 80.0,
+   "quiz": 83.0,
+   "midterm": 83.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 100
+   },
+   {
+    "period": "2026-W8",
+    "average": 96
+   },
+   {
+    "period": "2026-W12",
+    "average": 90
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 77
+   }
+  ]
+ },
+ {
+  "student_id": "S027",
+  "name": "Student 027",
+  "course_code": "CSC110",
+  "course_name": "Introduction to Programming",
+  "section_id": "CSC110-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-silva",
+  "instructor_name": "Dr. Silva",
+  "credit_hours": 3,
+  "attendance_rate": 81,
+  "study_hours_weekly": 9,
+  "grades": {
+   "assignment_1": 84.0,
+   "assignment_2": 80.0,
+   "quiz": 90.0,
+   "midterm": 89.0,
+   "final": 85.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 98
+   },
+   {
+    "period": "2026-W8",
+    "average": 94
+   },
+   {
+    "period": "2026-W12",
+    "average": 90
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 100
+   }
+  ]
+ },
+ {
+  "student_id": "S027",
+  "name": "Student 027",
+  "course_code": "BIO101",
+  "course_name": "Biology I",
+  "section_id": "BIO101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-silva",
+  "instructor_name": "Dr. Silva",
+  "credit_hours": 4,
+  "attendance_rate": 75,
+  "study_hours_weekly": 10,
+  "grades": {
+   "assignment_1": 90.0,
+   "assignment_2": 86.0,
+   "quiz": 86.0,
+   "midterm": 86.0,
+   "final": 86.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 90
+   },
+   {
+    "period": "2026-W8",
+    "average": 89
+   },
+   {
+    "period": "2026-W12",
+    "average": 88
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 78
+   }
+  ]
+ },
+ {
+  "student_id": "S028",
+  "name": "Student 028",
+  "course_code": "CHE101",
+  "course_name": "Chemistry I",
+  "section_id": "CHE101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-nguyen",
+  "instructor_name": "Prof. Nguyen",
+  "credit_hours": 4,
+  "attendance_rate": 100,
+  "study_hours_weekly": 11,
+  "grades": {
+   "assignment_1": 75.0,
+   "assignment_2": 80.0,
+   "quiz": 67.0,
+   "midterm": 67.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 76
+   },
+   {
+    "period": "2026-W8",
+    "average": 75
+   },
+   {
+    "period": "2026-W12",
+    "average": 73
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 98
+   }
+  ]
+ },
+ {
+  "student_id": "S028",
+  "name": "Student 028",
+  "course_code": "HIS110",
+  "course_name": "World History",
+  "section_id": "HIS110-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-okafor",
+  "instructor_name": "Prof. Okafor",
+  "credit_hours": 3,
+  "attendance_rate": 100,
+  "study_hours_weekly": 11,
+  "grades": {
+   "assignment_1": 75.0,
+   "assignment_2": 77.0,
+   "quiz": 77.0,
+   "midterm": 76.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 74
+   },
+   {
+    "period": "2026-W8",
+    "average": 75
+   },
+   {
+    "period": "2026-W12",
+    "average": 76
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 98
+   }
+  ]
+ },
+ {
+  "student_id": "S028",
+  "name": "Student 028",
+  "course_code": "CSC110",
+  "course_name": "Introduction to Programming",
+  "section_id": "CSC110-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-silva",
+  "instructor_name": "Dr. Silva",
+  "credit_hours": 3,
+  "attendance_rate": 100,
+  "study_hours_weekly": 11,
+  "grades": {
+   "assignment_1": 59.0,
+   "assignment_2": 56.0,
+   "quiz": 56.0,
+   "midterm": 59.0,
+   "final": 62.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 55
+   },
+   {
+    "period": "2026-W8",
+    "average": 56
+   },
+   {
+    "period": "2026-W12",
+    "average": 57
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 100
+   }
+  ]
+ },
+ {
+  "student_id": "S029",
+  "name": "Student 029",
+  "course_code": "CHE101",
+  "course_name": "Chemistry I",
+  "section_id": "CHE101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-nguyen",
+  "instructor_name": "Prof. Nguyen",
+  "credit_hours": 4,
+  "attendance_rate": 97,
+  "study_hours_weekly": 10,
+  "grades": {
+   "assignment_1": 81.0,
+   "assignment_2": 80.0,
+   "quiz": 68.0,
+   "midterm": 79.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 93
+   },
+   {
+    "period": "2026-W8",
+    "average": 88
+   },
+   {
+    "period": "2026-W12",
+    "average": 82
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 99
+   }
+  ]
+ },
+ {
+  "student_id": "S029",
+  "name": "Student 029",
+  "course_code": "MAT101",
+  "course_name": "College Algebra",
+  "section_id": "MAT101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-chen",
+  "instructor_name": "Dr. Chen",
+  "credit_hours": 4,
+  "attendance_rate": 99,
+  "study_hours_weekly": 11,
+  "grades": {
+   "assignment_1": 79.0,
+   "assignment_2": 69.0,
+   "quiz": 83.0,
+   "midterm": 75.0,
+   "final": 80.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 76
+   },
+   {
+    "period": "2026-W8",
+    "average": 77
+   },
+   {
+    "period": "2026-W12",
+    "average": 77
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 99
+   }
+  ]
+ },
+ {
+  "student_id": "S029",
+  "name": "Student 029",
+  "course_code": "BIO101",
+  "course_name": "Biology I",
+  "section_id": "BIO101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-silva",
+  "instructor_name": "Dr. Silva",
+  "credit_hours": 4,
+  "attendance_rate": 100,
+  "study_hours_weekly": 6,
+  "grades": {
+   "assignment_1": 96.0,
+   "assignment_2": 98.0,
+   "quiz": 95.0,
+   "midterm": 89.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 96
+   },
+   {
+    "period": "2026-W8",
+    "average": 95
+   },
+   {
+    "period": "2026-W12",
+    "average": 95
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 100
+   }
+  ]
+ },
+ {
+  "student_id": "S029",
+  "name": "Student 029",
+  "course_code": "ENG102",
+  "course_name": "Academic Writing",
+  "section_id": "ENG102-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-nguyen",
+  "instructor_name": "Prof. Nguyen",
+  "credit_hours": 3,
+  "attendance_rate": 88,
+  "study_hours_weekly": 9,
+  "grades": {
+   "assignment_1": 91.0,
+   "assignment_2": 94.0,
+   "quiz": 92.0,
+   "midterm": 94.0,
+   "final": 83.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 93
+   },
+   {
+    "period": "2026-W8",
+    "average": 92
+   },
+   {
+    "period": "2026-W12",
+    "average": 91
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 91
+   }
+  ]
+ },
+ {
+  "student_id": "S030",
+  "name": "Student 030",
+  "course_code": "BIO101",
+  "course_name": "Biology I",
+  "section_id": "BIO101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-silva",
+  "instructor_name": "Dr. Silva",
+  "credit_hours": 4,
+  "attendance_rate": 77,
+  "study_hours_weekly": 4,
+  "grades": {
+   "assignment_1": 54.0,
+   "assignment_2": 54.0,
+   "quiz": 55.0,
+   "midterm": 45.0,
+   "final": 60.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 54
+   },
+   {
+    "period": "2026-W8",
+    "average": 54
+   },
+   {
+    "period": "2026-W12",
+    "average": 54
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 77
+   }
+  ]
+ },
+ {
+  "student_id": "S030",
+  "name": "Student 030",
+  "course_code": "MAT101",
+  "course_name": "College Algebra",
+  "section_id": "MAT101-B",
+  "section_label": "B",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-okafor",
+  "instructor_name": "Prof. Okafor",
+  "credit_hours": 4,
+  "attendance_rate": 65,
+  "study_hours_weekly": 9,
+  "grades": {
+   "assignment_1": 54.0,
+   "assignment_2": 57.0,
+   "quiz": 46.0,
+   "midterm": 64.0,
+   "final": 56.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 77
+   },
+   {
+    "period": "2026-W8",
+    "average": 70
+   },
+   {
+    "period": "2026-W12",
+    "average": 63
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 66
+   }
+  ]
+ },
+ {
+  "student_id": "S030",
+  "name": "Student 030",
+  "course_code": "HIS110",
+  "course_name": "World History",
+  "section_id": "HIS110-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-okafor",
+  "instructor_name": "Prof. Okafor",
+  "credit_hours": 3,
+  "attendance_rate": 68,
+  "study_hours_weekly": 9,
+  "grades": {
+   "assignment_1": 67.0,
+   "assignment_2": 68.0,
+   "quiz": 67.0,
+   "midterm": 68.0,
+   "final": 67.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 88
+   },
+   {
+    "period": "2026-W8",
+    "average": 81
+   },
+   {
+    "period": "2026-W12",
+    "average": 74
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 86
+   }
+  ]
+ },
+ {
+  "student_id": "S030",
+  "name": "Student 030",
+  "course_code": "PHY101",
+  "course_name": "Physics I",
+  "section_id": "PHY101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-chen",
+  "instructor_name": "Dr. Chen",
+  "credit_hours": 4,
+  "attendance_rate": 72,
+  "study_hours_weekly": 5,
+  "grades": {
+   "assignment_1": 64.0,
+   "assignment_2": 49.0,
+   "quiz": 48.0,
+   "midterm": 52.0,
+   "final": 51.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 69
+   },
+   {
+    "period": "2026-W8",
+    "average": 64
+   },
+   {
+    "period": "2026-W12",
+    "average": 58
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 71
+   }
+  ]
+ },
+ {
+  "student_id": "S031",
+  "name": "Student 031",
+  "course_code": "BIO101",
+  "course_name": "Biology I",
+  "section_id": "BIO101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-silva",
+  "instructor_name": "Dr. Silva",
+  "credit_hours": 4,
+  "attendance_rate": 87,
+  "study_hours_weekly": 8,
+  "grades": {
+   "assignment_1": 74.0,
+   "assignment_2": 79.0,
+   "quiz": 64.0,
+   "midterm": 74.0,
+   "final": 76.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 86
+   },
+   {
+    "period": "2026-W8",
+    "average": 82
+   },
+   {
+    "period": "2026-W12",
+    "average": 78
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 88
+   }
+  ]
+ },
+ {
+  "student_id": "S031",
+  "name": "Student 031",
+  "course_code": "CHE101",
+  "course_name": "Chemistry I",
+  "section_id": "CHE101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-nguyen",
+  "instructor_name": "Prof. Nguyen",
+  "credit_hours": 4,
+  "attendance_rate": 88,
+  "study_hours_weekly": 9,
+  "grades": {
+   "assignment_1": 78.0,
+   "assignment_2": 76.0,
+   "quiz": 83.0,
+   "midterm": 75.0,
+   "final": 77.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 99
+   },
+   {
+    "period": "2026-W8",
+    "average": 92
+   },
+   {
+    "period": "2026-W12",
+    "average": 85
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 100
+   }
+  ]
+ },
+ {
+  "student_id": "S031",
+  "name": "Student 031",
+  "course_code": "ENG102",
+  "course_name": "Academic Writing",
+  "section_id": "ENG102-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-nguyen",
+  "instructor_name": "Prof. Nguyen",
+  "credit_hours": 3,
+  "attendance_rate": 84,
+  "study_hours_weekly": 11,
+  "grades": {
+   "assignment_1": 83.0,
+   "assignment_2": 81.0,
+   "quiz": 86.0,
+   "midterm": 79.0,
+   "final": 79.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 84
+   },
+   {
+    "period": "2026-W8",
+    "average": 83
+   },
+   {
+    "period": "2026-W12",
+    "average": 82
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 82
+   }
+  ]
+ },
+ {
+  "student_id": "S032",
+  "name": "Student 032",
+  "course_code": "PHY101",
+  "course_name": "Physics I",
+  "section_id": "PHY101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-chen",
+  "instructor_name": "Dr. Chen",
+  "credit_hours": 4,
+  "attendance_rate": 91,
+  "study_hours_weekly": 9,
+  "grades": {
+   "assignment_1": 72.0,
+   "quiz": 78.0,
+   "midterm": 77.0,
+   "final": 74.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 74
+   },
+   {
+    "period": "2026-W8",
+    "average": 74
+   },
+   {
+    "period": "2026-W12",
+    "average": 75
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 90
+   }
+  ]
+ },
+ {
+  "student_id": "S032",
+  "name": "Student 032",
+  "course_code": "CHE101",
+  "course_name": "Chemistry I",
+  "section_id": "CHE101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-nguyen",
+  "instructor_name": "Prof. Nguyen",
+  "credit_hours": 4,
+  "attendance_rate": 85,
+  "study_hours_weekly": 9,
+  "grades": {
+   "assignment_1": 68.0,
+   "assignment_2": 80.0,
+   "quiz": 76.0,
+   "midterm": 78.0,
+   "final": 69.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 75
+   },
+   {
+    "period": "2026-W8",
+    "average": 75
+   },
+   {
+    "period": "2026-W12",
+    "average": 75
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 87
+   }
+  ]
+ },
+ {
+  "student_id": "S032",
+  "name": "Student 032",
+  "course_code": "MAT101",
+  "course_name": "College Algebra",
+  "section_id": "MAT101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-chen",
+  "instructor_name": "Dr. Chen",
+  "credit_hours": 4,
+  "attendance_rate": 89,
+  "study_hours_weekly": 9,
+  "grades": {
+   "assignment_1": 77.0,
+   "assignment_2": 75.0,
+   "quiz": 76.0,
+   "midterm": 63.0,
+   "final": 81.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 78
+   },
+   {
+    "period": "2026-W8",
+    "average": 76
+   },
+   {
+    "period": "2026-W12",
+    "average": 75
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 86
+   }
+  ]
+ },
+ {
+  "student_id": "S033",
+  "name": "Student 033",
+  "course_code": "MAT101",
+  "course_name": "College Algebra",
+  "section_id": "MAT101-B",
+  "section_label": "B",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-okafor",
+  "instructor_name": "Prof. Okafor",
+  "credit_hours": 4,
+  "attendance_rate": 100,
+  "study_hours_weekly": 9,
+  "grades": {
+   "assignment_1": 90.0,
+   "assignment_2": 88.0,
+   "quiz": 82.0,
+   "midterm": 91.0,
+   "final": 86.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 87
+   },
+   {
+    "period": "2026-W8",
+    "average": 87
+   },
+   {
+    "period": "2026-W12",
+    "average": 87
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 100
+   }
+  ]
+ },
+ {
+  "student_id": "S033",
+  "name": "Student 033",
+  "course_code": "BIO101",
+  "course_name": "Biology I",
+  "section_id": "BIO101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-silva",
+  "instructor_name": "Dr. Silva",
+  "credit_hours": 4,
+  "attendance_rate": 98,
+  "study_hours_weekly": 10,
+  "grades": {
+   "assignment_1": 89.0,
+   "assignment_2": 88.0,
+   "quiz": 86.0,
+   "midterm": 86.0,
+   "final": 89.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 86
+   },
+   {
+    "period": "2026-W8",
+    "average": 87
+   },
+   {
+    "period": "2026-W12",
+    "average": 87
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 97
+   }
+  ]
+ },
+ {
+  "student_id": "S033",
+  "name": "Student 033",
+  "course_code": "CHE101",
+  "course_name": "Chemistry I",
+  "section_id": "CHE101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-nguyen",
+  "instructor_name": "Prof. Nguyen",
+  "credit_hours": 4,
+  "attendance_rate": 100,
+  "study_hours_weekly": 6,
+  "grades": {
+   "assignment_1": 83.0,
+   "assignment_2": 82.0,
+   "quiz": 84.0,
+   "midterm": 85.0,
+   "final": 85.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 84
+   },
+   {
+    "period": "2026-W8",
+    "average": 84
+   },
+   {
+    "period": "2026-W12",
+    "average": 84
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 99
+   }
+  ]
+ },
+ {
+  "student_id": "S033",
+  "name": "Student 033",
+  "course_code": "CSC110",
+  "course_name": "Introduction to Programming",
+  "section_id": "CSC110-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-silva",
+  "instructor_name": "Dr. Silva",
+  "credit_hours": 3,
+  "attendance_rate": 93,
+  "study_hours_weekly": 13,
+  "grades": {
+   "assignment_1": 86.0,
+   "assignment_2": 90.0,
+   "quiz": 85.0,
+   "midterm": 83.0,
+   "final": 88.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 90
+   },
+   {
+    "period": "2026-W8",
+    "average": 89
+   },
+   {
+    "period": "2026-W12",
+    "average": 87
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 91
+   }
+  ]
+ },
+ {
+  "student_id": "S034",
+  "name": "Student 034",
+  "course_code": "BIO101",
+  "course_name": "Biology I",
+  "section_id": "BIO101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-silva",
+  "instructor_name": "Dr. Silva",
+  "credit_hours": 4,
+  "attendance_rate": 94,
+  "study_hours_weekly": 10,
+  "grades": {
+   "assignment_1": 69.0,
+   "assignment_2": 63.0,
+   "quiz": 64.0,
+   "midterm": 70.0,
+   "final": 73.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 69
+   },
+   {
+    "period": "2026-W8",
+    "average": 68
+   },
+   {
+    "period": "2026-W12",
+    "average": 68
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 93
+   }
+  ]
+ },
+ {
+  "student_id": "S034",
+  "name": "Student 034",
+  "course_code": "HIS110",
+  "course_name": "World History",
+  "section_id": "HIS110-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-okafor",
+  "instructor_name": "Prof. Okafor",
+  "credit_hours": 3,
+  "attendance_rate": 97,
+  "study_hours_weekly": 8,
+  "grades": {
+   "assignment_1": 83.0,
+   "assignment_2": 84.0,
+   "quiz": 79.0,
+   "midterm": 91.0,
+   "final": 82.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 84
+   },
+   {
+    "period": "2026-W8",
+    "average": 84
+   },
+   {
+    "period": "2026-W12",
+    "average": 84
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 98
+   }
+  ]
+ },
+ {
+  "student_id": "S034",
+  "name": "Student 034",
+  "course_code": "PHY101",
+  "course_name": "Physics I",
+  "section_id": "PHY101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-chen",
+  "instructor_name": "Dr. Chen",
+  "credit_hours": 4,
+  "attendance_rate": 100,
+  "study_hours_weekly": 9,
+  "grades": {
+   "assignment_1": 68.0,
+   "assignment_2": 73.0,
+   "quiz": 69.0,
+   "midterm": 88.0,
+   "final": 74.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 74
+   },
+   {
+    "period": "2026-W8",
+    "average": 74
+   },
+   {
+    "period": "2026-W12",
+    "average": 74
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 100
+   }
+  ]
+ },
+ {
+  "student_id": "S035",
+  "name": "Student 035",
+  "course_code": "ENG102",
+  "course_name": "Academic Writing",
+  "section_id": "ENG102-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-nguyen",
+  "instructor_name": "Prof. Nguyen",
+  "credit_hours": 3,
+  "attendance_rate": 70,
+  "study_hours_weekly": 9,
+  "grades": {
+   "assignment_1": 63.0,
+   "assignment_2": 68.0,
+   "quiz": 66.0,
+   "midterm": 69.0,
+   "final": 66.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 79
+   },
+   {
+    "period": "2026-W8",
+    "average": 74
+   },
+   {
+    "period": "2026-W12",
+    "average": 70
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 91
+   }
+  ]
+ },
+ {
+  "student_id": "S035",
+  "name": "Student 035",
+  "course_code": "HIS110",
+  "course_name": "World History",
+  "section_id": "HIS110-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-okafor",
+  "instructor_name": "Prof. Okafor",
+  "credit_hours": 3,
+  "attendance_rate": 76,
+  "study_hours_weekly": 9,
+  "grades": {
+   "assignment_1": 55.0,
+   "assignment_2": 56.0,
+   "quiz": 56.0,
+   "midterm": 49.0,
+   "final": 55.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 58
+   },
+   {
+    "period": "2026-W8",
+    "average": 57
+   },
+   {
+    "period": "2026-W12",
+    "average": 55
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 77
+   }
+  ]
+ },
+ {
+  "student_id": "S035",
+  "name": "Student 035",
+  "course_code": "PHY101",
+  "course_name": "Physics I",
+  "section_id": "PHY101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-chen",
+  "instructor_name": "Dr. Chen",
+  "credit_hours": 4,
+  "attendance_rate": 66,
+  "study_hours_weekly": 8,
+  "grades": {
+   "assignment_1": 64.0,
+   "assignment_2": 61.0,
+   "quiz": 61.0,
+   "midterm": 70.0,
+   "final": 61.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 82
+   },
+   {
+    "period": "2026-W8",
+    "average": 76
+   },
+   {
+    "period": "2026-W12",
+    "average": 70
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 86
+   }
+  ]
+ },
+ {
+  "student_id": "S036",
+  "name": "Student 036",
+  "course_code": "ENG102",
+  "course_name": "Academic Writing",
+  "section_id": "ENG102-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-nguyen",
+  "instructor_name": "Prof. Nguyen",
+  "credit_hours": 3,
+  "attendance_rate": 92,
+  "study_hours_weekly": 9,
+  "grades": {
+   "assignment_1": 75.0,
+   "assignment_2": 69.0,
+   "quiz": 66.0,
+   "midterm": 71.0,
+   "final": 68.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 71
+   },
+   {
+    "period": "2026-W8",
+    "average": 71
+   },
+   {
+    "period": "2026-W12",
+    "average": 70
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 89
+   }
+  ]
+ },
+ {
+  "student_id": "S036",
+  "name": "Student 036",
+  "course_code": "MAT101",
+  "course_name": "College Algebra",
+  "section_id": "MAT101-B",
+  "section_label": "B",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-okafor",
+  "instructor_name": "Prof. Okafor",
+  "credit_hours": 4,
+  "attendance_rate": 90,
+  "study_hours_weekly": 10,
+  "grades": {
+   "assignment_1": 68.0,
+   "assignment_2": 59.0,
+   "quiz": 60.0,
+   "midterm": 63.0,
+   "final": 69.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 66
+   },
+   {
+    "period": "2026-W8",
+    "average": 65
+   },
+   {
+    "period": "2026-W12",
+    "average": 65
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 90
+   }
+  ]
+ },
+ {
+  "student_id": "S036",
+  "name": "Student 036",
+  "course_code": "PHY101",
+  "course_name": "Physics I",
+  "section_id": "PHY101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-chen",
+  "instructor_name": "Dr. Chen",
+  "credit_hours": 4,
+  "attendance_rate": 93,
+  "study_hours_weekly": 8,
+  "grades": {
+   "assignment_1": 72.0,
+   "assignment_2": 69.0,
+   "quiz": 77.0,
+   "midterm": 72.0,
+   "final": 79.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 77
+   },
+   {
+    "period": "2026-W8",
+    "average": 76
+   },
+   {
+    "period": "2026-W12",
+    "average": 75
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 93
+   }
+  ]
+ },
+ {
+  "student_id": "S036",
+  "name": "Student 036",
+  "course_code": "CHE101",
+  "course_name": "Chemistry I",
+  "section_id": "CHE101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-nguyen",
+  "instructor_name": "Prof. Nguyen",
+  "credit_hours": 4,
+  "attendance_rate": 91,
+  "study_hours_weekly": 13,
+  "grades": {
+   "assignment_1": 67.0,
+   "assignment_2": 82.0,
+   "quiz": 70.0,
+   "midterm": 71.0,
+   "final": 65.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 69
+   },
+   {
+    "period": "2026-W8",
+    "average": 70
+   },
+   {
+    "period": "2026-W12",
+    "average": 70
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 90
+   }
+  ]
+ },
+ {
+  "student_id": "S037",
+  "name": "Student 037",
+  "course_code": "ENG102",
+  "course_name": "Academic Writing",
+  "section_id": "ENG102-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-nguyen",
+  "instructor_name": "Prof. Nguyen",
+  "credit_hours": 3,
+  "attendance_rate": 100,
+  "study_hours_weekly": 11,
+  "grades": {
+   "assignment_1": 81.0,
+   "assignment_2": 87.0,
+   "quiz": 79.0,
+   "midterm": 87.0,
+   "final": 89.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 87
+   },
+   {
+    "period": "2026-W8",
+    "average": 86
+   },
+   {
+    "period": "2026-W12",
+    "average": 85
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 99
+   }
+  ]
+ },
+ {
+  "student_id": "S037",
+  "name": "Student 037",
+  "course_code": "PHY101",
+  "course_name": "Physics I",
+  "section_id": "PHY101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-chen",
+  "instructor_name": "Dr. Chen",
+  "credit_hours": 4,
+  "attendance_rate": 100,
+  "study_hours_weekly": 10,
+  "grades": {
+   "assignment_1": 67.0,
+   "assignment_2": 68.0,
+   "quiz": 65.0,
+   "midterm": 75.0,
+   "final": 76.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 74
+   },
+   {
+    "period": "2026-W8",
+    "average": 73
+   },
+   {
+    "period": "2026-W12",
+    "average": 71
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 99
+   }
+  ]
+ },
+ {
+  "student_id": "S037",
+  "name": "Student 037",
+  "course_code": "BIO101",
+  "course_name": "Biology I",
+  "section_id": "BIO101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-silva",
+  "instructor_name": "Dr. Silva",
+  "credit_hours": 4,
+  "attendance_rate": 100,
+  "study_hours_weekly": 14,
+  "grades": {
+   "assignment_1": 78.0,
+   "assignment_2": 72.0,
+   "quiz": 67.0,
+   "midterm": 78.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 76
+   },
+   {
+    "period": "2026-W8",
+    "average": 76
+   },
+   {
+    "period": "2026-W12",
+    "average": 75
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 100
+   }
+  ]
+ },
+ {
+  "student_id": "S037",
+  "name": "Student 037",
+  "course_code": "CHE101",
+  "course_name": "Chemistry I",
+  "section_id": "CHE101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-nguyen",
+  "instructor_name": "Prof. Nguyen",
+  "credit_hours": 4,
+  "attendance_rate": 100,
+  "study_hours_weekly": 7,
+  "grades": {
+   "assignment_1": 81.0,
+   "assignment_2": 76.0,
+   "quiz": 81.0,
+   "midterm": 78.0,
+   "final": 77.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 93
+   },
+   {
+    "period": "2026-W8",
+    "average": 89
+   },
+   {
+    "period": "2026-W12",
+    "average": 84
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 100
+   }
+  ]
+ },
+ {
+  "student_id": "S038",
+  "name": "Student 038",
+  "course_code": "MAT101",
+  "course_name": "College Algebra",
+  "section_id": "MAT101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-chen",
+  "instructor_name": "Dr. Chen",
+  "credit_hours": 4,
+  "attendance_rate": 96,
+  "study_hours_weekly": 9,
+  "grades": {
+   "assignment_1": 64.0,
+   "assignment_2": 68.0,
+   "quiz": 63.0,
+   "midterm": 69.0,
+   "final": 68.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 70
+   },
+   {
+    "period": "2026-W8",
+    "average": 69
+   },
+   {
+    "period": "2026-W12",
+    "average": 68
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 94
+   }
+  ]
+ },
+ {
+  "student_id": "S038",
+  "name": "Student 038",
+  "course_code": "PHY101",
+  "course_name": "Physics I",
+  "section_id": "PHY101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-chen",
+  "instructor_name": "Dr. Chen",
+  "credit_hours": 4,
+  "attendance_rate": 75,
+  "study_hours_weekly": 12,
+  "grades": {
+   "assignment_1": 69.0,
+   "assignment_2": 69.0,
+   "quiz": 70.0,
+   "midterm": 68.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 70
+   },
+   {
+    "period": "2026-W8",
+    "average": 70
+   },
+   {
+    "period": "2026-W12",
+    "average": 69
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 73
+   }
+  ]
+ },
+ {
+  "student_id": "S038",
+  "name": "Student 038",
+  "course_code": "ENG102",
+  "course_name": "Academic Writing",
+  "section_id": "ENG102-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-nguyen",
+  "instructor_name": "Prof. Nguyen",
+  "credit_hours": 3,
+  "attendance_rate": 83,
+  "study_hours_weekly": 9,
+  "grades": {
+   "assignment_1": 87.0,
+   "assignment_2": 89.0,
+   "quiz": 90.0,
+   "midterm": 89.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 86
+   },
+   {
+    "period": "2026-W8",
+    "average": 87
+   },
+   {
+    "period": "2026-W12",
+    "average": 88
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 83
+   }
+  ]
+ },
+ {
+  "student_id": "S039",
+  "name": "Student 039",
+  "course_code": "MAT101",
+  "course_name": "College Algebra",
+  "section_id": "MAT101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-chen",
+  "instructor_name": "Dr. Chen",
+  "credit_hours": 4,
+  "attendance_rate": 89,
+  "study_hours_weekly": 12,
+  "grades": {
+   "assignment_1": 81.0,
+   "assignment_2": 76.0,
+   "quiz": 82.0,
+   "midterm": 76.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 100
+   },
+   {
+    "period": "2026-W8",
+    "average": 93
+   },
+   {
+    "period": "2026-W12",
+    "average": 86
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 100
+   }
+  ]
+ },
+ {
+  "student_id": "S039",
+  "name": "Student 039",
+  "course_code": "CSC110",
+  "course_name": "Introduction to Programming",
+  "section_id": "CSC110-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-silva",
+  "instructor_name": "Dr. Silva",
+  "credit_hours": 3,
+  "attendance_rate": 86,
+  "study_hours_weekly": 10,
+  "grades": {
+   "assignment_1": 79.0,
+   "assignment_2": 73.0,
+   "quiz": 76.0,
+   "midterm": 75.0,
+   "final": 81.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 75
+   },
+   {
+    "period": "2026-W8",
+    "average": 75
+   },
+   {
+    "period": "2026-W12",
+    "average": 76
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 83
+   }
+  ]
+ },
+ {
+  "student_id": "S039",
+  "name": "Student 039",
+  "course_code": "BIO101",
+  "course_name": "Biology I",
+  "section_id": "BIO101-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-silva",
+  "instructor_name": "Dr. Silva",
+  "credit_hours": 4,
+  "attendance_rate": 92,
+  "study_hours_weekly": 8,
+  "grades": {
+   "assignment_1": 80.0,
+   "assignment_2": 79.0,
+   "quiz": 75.0,
+   "midterm": 83.0,
+   "final": 80.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 78
+   },
+   {
+    "period": "2026-W8",
+    "average": 78
+   },
+   {
+    "period": "2026-W12",
+    "average": 79
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 93
+   }
+  ]
+ },
+ {
+  "student_id": "S040",
+  "name": "Student 040",
+  "course_code": "ENG102",
+  "course_name": "Academic Writing",
+  "section_id": "ENG102-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-nguyen",
+  "instructor_name": "Prof. Nguyen",
+  "credit_hours": 3,
+  "attendance_rate": 70,
+  "study_hours_weekly": 8,
+  "grades": {
+   "assignment_1": 66.0,
+   "assignment_2": 57.0,
+   "quiz": 62.0,
+   "midterm": 70.0,
+   "final": 62.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 66
+   },
+   {
+    "period": "2026-W8",
+    "average": 65
+   },
+   {
+    "period": "2026-W12",
+    "average": 64
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 69
+   }
+  ]
+ },
+ {
+  "student_id": "S040",
+  "name": "Student 040",
+  "course_code": "HIS110",
+  "course_name": "World History",
+  "section_id": "HIS110-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-okafor",
+  "instructor_name": "Prof. Okafor",
+  "credit_hours": 3,
+  "attendance_rate": 77,
+  "study_hours_weekly": 8,
+  "grades": {
+   "assignment_1": 64.0,
+   "assignment_2": 66.0,
+   "quiz": 61.0,
+   "midterm": 82.0,
+   "final": 64.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 66
+   },
+   {
+    "period": "2026-W8",
+    "average": 66
+   },
+   {
+    "period": "2026-W12",
+    "average": 67
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 76
+   }
+  ]
+ },
+ {
+  "student_id": "S040",
+  "name": "Student 040",
+  "course_code": "MAT101",
+  "course_name": "College Algebra",
+  "section_id": "MAT101-B",
+  "section_label": "B",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "prof-okafor",
+  "instructor_name": "Prof. Okafor",
+  "credit_hours": 4,
+  "attendance_rate": 82,
+  "study_hours_weekly": 8,
+  "grades": {
+   "assignment_1": 56.0,
+   "assignment_2": 59.0,
+   "quiz": 59.0,
+   "midterm": 66.0,
+   "final": 63.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 61
+   },
+   {
+    "period": "2026-W8",
+    "average": 61
+   },
+   {
+    "period": "2026-W12",
+    "average": 61
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 81
+   }
+  ]
+ },
+ {
+  "student_id": "S040",
+  "name": "Student 040",
+  "course_code": "CSC110",
+  "course_name": "Introduction to Programming",
+  "section_id": "CSC110-A",
+  "section_label": "A",
+  "term": "Fall",
+  "academic_year": "2026",
+  "instructor_id": "dr-silva",
+  "instructor_name": "Dr. Silva",
+  "credit_hours": 3,
+  "attendance_rate": 63,
+  "study_hours_weekly": 10,
+  "grades": {
+   "assignment_1": 61.0,
+   "assignment_2": 58.0,
+   "quiz": 59.0,
+   "midterm": 75.0,
+   "final": 46.0
+  },
+  "grade_history": [
+   {
+    "period": "2026-W4",
+    "average": 60
+   },
+   {
+    "period": "2026-W8",
+    "average": 60
+   },
+   {
+    "period": "2026-W12",
+    "average": 60
+   }
+  ],
+  "attendance_history": [
+   {
+    "period": "2026-W4",
+    "attendance_rate": 64
+   }
+  ]
+ }
+]

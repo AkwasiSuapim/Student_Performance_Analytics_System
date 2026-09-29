@@ -7,7 +7,7 @@ import csv
 from pathlib import Path
 
 from student_performance.data_io import export_students_to_json, load_courses
-from student_performance.ml import FinalScorePredictor, student_features
+from student_performance.ml import FinalScorePredictor, prediction_rows
 from student_performance.reporting import save_reports
 from student_performance.visualization import generate_visualizations
 
@@ -16,7 +16,7 @@ def _all_students(courses):
     return [student for course in courses.values() for student in course.students]
 
 
-def _save_predictions(predictor, students, output_dir: Path) -> Path:
+def save_predictions(predictor, students, output_dir: Path) -> Path:
     path = output_dir / "final_score_predictions.csv"
     with path.open("w", encoding="utf-8", newline="") as handle:
         writer = csv.DictWriter(
@@ -30,18 +30,9 @@ def _save_predictions(predictor, students, output_dir: Path) -> Path:
             ],
         )
         writer.writeheader()
-        for student in students:
-            if student_features(student) is None:
-                continue
-            writer.writerow(
-                {
-                    "student_id": student.student_id,
-                    "name": student.name,
-                    "course_code": student.course_code,
-                    "actual_final": student.get_grade("final") or "",
-                    "predicted_final": predictor.predict(student),
-                }
-            )
+        for row in prediction_rows(predictor, students):
+            actual = row["actual_final"]
+            writer.writerow({**row, "actual_final": "" if actual is None else actual})
     return path
 
 
@@ -58,7 +49,7 @@ def run_analysis(input_path: Path, output_dir: Path, skip_ml: bool = False) -> i
         try:
             model_results = predictor.fit(students)
             best_model_name = predictor.best_model_name
-            prediction_path = _save_predictions(predictor, students, output_dir)
+            prediction_path = save_predictions(predictor, students, output_dir)
         except ValueError as error:
             print(f"ML skipped: {error}")
 

@@ -1,0 +1,37 @@
+student_id,name,course_code,course_name,attendance_rate,study_hours_weekly,assignment_1,assignment_2,quiz,midterm,final
+ST001,Student 001,MAT101,College Algebra,94,8,96,89,92,90,94
+ST002,Student 002,MAT101,College Algebra,86,10,88,93,84,91,90
+ST003,Student 003,MAT101,College Algebra,97,7,92,86,95,88,93
+ST004,Student 004,MAT101,College Algebra,90,5,83,89,86,85,87
+ST005,Student 005,MAT101,College Algebra,84,8,78,87,80,83,82
+ST006,Student 006,MAT101,College Algebra,92,4,81,75,88,79,84
+ST007,Student 007,MAT101,College Algebra,79,7,74,82,76,77,78
+ST008,Student 008,MAT101,College Algebra,88,3,72,75,84,73,80
+ST009,Student 009,MAT101,College Algebra,81,5,77,69,71,75,72
+ST010,Student 010,MAT101,College Algebra,76,4,66,74,68,72,70
+ST011,Student 011,MAT101,College Algebra,83,2,69,61,74,64,67
+ST012,Student 012,MAT101,College Algebra,71,5,58,68,62,66,64
+ST013,Student 013,MAT101,College Algebra,75,3,64,57,67,61,63
+ST014,Student 014,MAT101,College Algebra,64,4,60,55,51,58,57
+ST015,Student 015,MAT101,College Algebra,69,1,49,63,54,56,58
+ST016,Student 016,MAT101,College Algebra,58,2,52,45,58,50,49
+ST017,Student 017,MAT101,College Algebra,91,6,85,78,88,82,
+ST018,Student 018,MAT101,College Algebra,73,2.5,59,66,60,63,
+ST019,Student 019,CSC110,Introduction to Programming,97,9,94,98,90,96,95
+ST020,Student 020,CSC110,Introduction to Programming,89,12,91,84,96,88,93
+ST021,Student 021,CSC110,Introduction to Programming,95,6,87,92,85,91,89
+ST022,Student 022,CSC110,Introduction to Programming,82,10,88,79,91,86,90
+ST023,Student 023,CSC110,Introduction to Programming,93,5,76,86,82,84,85
+ST024,Student 024,CSC110,Introduction to Programming,85,8,83,77,80,82,81
+ST025,Student 025,CSC110,Introduction to Programming,91,4,72,84,78,79,83
+ST026,Student 026,CSC110,Introduction to Programming,78,7,80,70,74,77,76
+ST027,Student 027,CSC110,Introduction to Programming,87,3,69,78,72,75,77
+ST028,Student 028,CSC110,Introduction to Programming,74,6,75,64,69,71,70
+ST029,Student 029,CSC110,Introduction to Programming,81,2,63,72,66,68,69
+ST030,Student 030,CSC110,Introduction to Programming,70,5,68,59,61,65,62
+ST031,Student 031,CSC110,Introduction to Programming,76,3,55,67,64,62,65
+ST032,Student 032,CSC110,Introduction to Programming,67,4,62,53,57,59,58
+ST033,Student 033,CSC110,Introduction to Programming,73,1,48,64,52,55,56
+ST034,Student 034,CSC110,Introduction to Programming,60,2,56,44,59,51,50
+ST035,Student 035,CSC110,Introduction to Programming,88,7,84,81,86,83,
+ST036,Student 036,CSC110,Introduction to Programming,72,4,62,70,65,66,

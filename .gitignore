@@ -10,3 +10,12 @@ build/
 *.egg-info/
 .DS_Store
 
+
+# Generated analyses, uploads and local config
+analysis_output/
+.env
+node_modules/
+frontend/dist/
+frontend/coverage/
+*.tsbuildinfo
+.ruff_cache/

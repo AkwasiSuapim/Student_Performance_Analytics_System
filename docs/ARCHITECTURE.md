@@ -47,3 +47,19 @@ The system separates the meaning of the problem from the way data is stored or d
 - Add a Streamlit dashboard that calls the existing domain and analytics modules.
 - Expose selected operations through FastAPI after the Python engine is stable.
 
+
+## Web application layers (added in the API phase)
+
+- `application/analysis_service.py` orchestrates one analysis: validate the upload, create a UUID folder, call
+  `data_io`, `reporting`, `ml`, `visualization`, and persist `result.json`. `application/results.py` reshapes engine
+  output for the API; it holds no new statistical definitions beyond aggregating student averages across courses
+  with the same formulas as `Course.summary()`.
+- `api/` exposes the service through versioned FastAPI routes with Pydantic response models and uniform errors.
+- `frontend/` is a React client that renders API results only.
+- `data_io.MissingColumnsError` lets the API distinguish missing columns from invalid values, and
+  `ml.prediction_rows` is shared by the CLI and the API.
+- `models/academic.py` adds `StudentProfile`, `ClassSection`, `Instructor`, `Enrollment` and the alert/prediction
+  entities around the existing `Student`/`Course`; `application/academic.py` builds them and
+  `application/academic_views.py` serializes the student- and class-centred views from the same enrollments.
+- `analytics/alerts.py` (rules), `application/alert_service.py` (deduplication, lifecycle, storage) and
+  `analytics/recommendations.py` (curated catalog) are separate, so risk, alerts and recommendations can change independently.

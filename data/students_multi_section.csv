@@ -1,0 +1,153 @@
+student_id,name,course_code,course_name,section_id,section_label,term,academic_year,instructor_id,instructor_name,credit_hours,attendance_rate,study_hours_weekly,assignment_1,assignment_2,quiz,midterm,final
+S001,Student 001,MAT101,College Algebra,MAT101-A,A,Fall,2026,dr-chen,Dr. Chen,4,89,7,86,86,80,85,91
+S001,Student 001,CSC110,Introduction to Programming,CSC110-A,A,Fall,2026,dr-silva,Dr. Silva,3,94,8,79,73,80,70,78
+S001,Student 001,ENG102,Academic Writing,ENG102-A,A,Fall,2026,prof-nguyen,Prof. Nguyen,3,77,12,92,94,90,99,92
+S001,Student 001,PHY101,Physics I,PHY101-A,A,Fall,2026,dr-chen,Dr. Chen,4,97,10,83,89,80,90,86
+S001,Student 001,HIS110,World History,HIS110-A,A,Fall,2026,prof-okafor,Prof. Okafor,3,99,7,83,76,86,79,85
+S001,Student 001,BIO101,Biology I,BIO101-A,A,Fall,2026,dr-silva,Dr. Silva,4,91,7,86,87,82,79,81
+S001,Student 001,CHE101,Chemistry I,CHE101-A,A,Fall,2026,prof-nguyen,Prof. Nguyen,4,93,8,70,80,67,73,78
+S002,Student 002,MAT101,College Algebra,MAT101-B,B,Fall,2026,prof-okafor,Prof. Okafor,4,82,7,88,91,87,84,90
+S002,Student 002,CSC110,Introduction to Programming,CSC110-A,A,Fall,2026,dr-silva,Dr. Silva,3,89,9,87,85,82,77,83
+S002,Student 002,ENG102,Academic Writing,ENG102-A,A,Fall,2026,prof-nguyen,Prof. Nguyen,3,90,13,100,96,,100,100
+S002,Student 002,PHY101,Physics I,PHY101-A,A,Fall,2026,dr-chen,Dr. Chen,4,91,7,81,81,,79,82
+S002,Student 002,HIS110,World History,HIS110-A,A,Fall,2026,prof-okafor,Prof. Okafor,3,91,10,88,88,83,80,84
+S002,Student 002,BIO101,Biology I,BIO101-A,A,Fall,2026,dr-silva,Dr. Silva,4,93,10,86,87,72,90,82
+S002,Student 002,CHE101,Chemistry I,CHE101-A,A,Fall,2026,prof-nguyen,Prof. Nguyen,4,94,10,88,86,95,87,87
+S003,Student 003,MAT101,College Algebra,MAT101-B,B,Fall,2026,prof-okafor,Prof. Okafor,4,95,11,75,73,75,81,78
+S003,Student 003,CSC110,Introduction to Programming,CSC110-A,A,Fall,2026,dr-silva,Dr. Silva,3,100,9,73,68,70,78,72
+S003,Student 003,ENG102,Academic Writing,ENG102-A,A,Fall,2026,prof-nguyen,Prof. Nguyen,3,100,10,81,80,76,82,74
+S003,Student 003,PHY101,Physics I,PHY101-A,A,Fall,2026,dr-chen,Dr. Chen,4,98,10,64,68,,71,71
+S003,Student 003,HIS110,World History,HIS110-A,A,Fall,2026,prof-okafor,Prof. Okafor,3,96,12,73,70,81,74,71
+S003,Student 003,BIO101,Biology I,BIO101-A,A,Fall,2026,dr-silva,Dr. Silva,4,97,11,73,75,71,78,77
+S003,Student 003,CHE101,Chemistry I,CHE101-A,A,Fall,2026,prof-nguyen,Prof. Nguyen,4,91,8,79,82,72,76,80
+S004,Student 004,MAT101,College Algebra,MAT101-B,B,Fall,2026,prof-okafor,Prof. Okafor,4,94,7,82,81,86,86,75
+S004,Student 004,CSC110,Introduction to Programming,CSC110-A,A,Fall,2026,dr-silva,Dr. Silva,3,91,6,84,88,94,82,82
+S004,Student 004,ENG102,Academic Writing,ENG102-A,A,Fall,2026,prof-nguyen,Prof. Nguyen,3,100,12,91,87,88,82,85
+S004,Student 004,PHY101,Physics I,PHY101-A,A,Fall,2026,dr-chen,Dr. Chen,4,89,8,83,76,76,84,
+S004,Student 004,HIS110,World History,HIS110-A,A,Fall,2026,prof-okafor,Prof. Okafor,3,92,10,82,78,77,80,77
+S004,Student 004,BIO101,Biology I,BIO101-A,A,Fall,2026,dr-silva,Dr. Silva,4,94,8,82,78,,80,86
+S004,Student 004,CHE101,Chemistry I,CHE101-A,A,Fall,2026,prof-nguyen,Prof. Nguyen,4,99,6,87,86,95,87,91
+S005,Student 005,BIO101,Biology I,BIO101-A,A,Fall,2026,dr-silva,Dr. Silva,4,65,6,66,53,64,57,68
+S005,Student 005,CSC110,Introduction to Programming,CSC110-A,A,Fall,2026,dr-silva,Dr. Silva,3,62,5,49,54,57,43,49
+S005,Student 005,PHY101,Physics I,PHY101-A,A,Fall,2026,dr-chen,Dr. Chen,4,58,6,61,52,56,50,54
+S006,Student 006,HIS110,World History,HIS110-A,A,Fall,2026,prof-okafor,Prof. Okafor,3,93,12,68,82,,75,80
+S006,Student 006,CSC110,Introduction to Programming,CSC110-A,A,Fall,2026,dr-silva,Dr. Silva,3,100,11,76,75,81,75,80
+S006,Student 006,CHE101,Chemistry I,CHE101-A,A,Fall,2026,prof-nguyen,Prof. Nguyen,4,93,8,89,84,87,77,
+S007,Student 007,MAT101,College Algebra,MAT101-B,B,Fall,2026,prof-okafor,Prof. Okafor,4,96,10,71,75,76,79,
+S007,Student 007,HIS110,World History,HIS110-A,A,Fall,2026,prof-okafor,Prof. Okafor,3,89,7,66,78,75,75,75
+S007,Student 007,CHE101,Chemistry I,CHE101-A,A,Fall,2026,prof-nguyen,Prof. Nguyen,4,100,11,86,77,83,91,89
+S008,Student 008,PHY101,Physics I,PHY101-A,A,Fall,2026,dr-chen,Dr. Chen,4,93,9,78,88,74,87,82
+S008,Student 008,ENG102,Academic Writing,ENG102-A,A,Fall,2026,prof-nguyen,Prof. Nguyen,3,88,8,88,87,88,82,83
+S008,Student 008,CSC110,Introduction to Programming,CSC110-A,A,Fall,2026,dr-silva,Dr. Silva,3,92,9,78,78,76,79,81
+S008,Student 008,HIS110,World History,HIS110-A,A,Fall,2026,prof-okafor,Prof. Okafor,3,89,8,85,82,83,84,82
+S009,Student 009,ENG102,Academic Writing,ENG102-A,A,Fall,2026,prof-nguyen,Prof. Nguyen,3,72,7,78,87,82,75,77
+S009,Student 009,MAT101,College Algebra,MAT101-A,A,Fall,2026,dr-chen,Dr. Chen,4,81,7,93,82,86,91,84
+S009,Student 009,BIO101,Biology I,BIO101-A,A,Fall,2026,dr-silva,Dr. Silva,4,84,8,83,87,84,70,95
+S009,Student 009,CSC110,Introduction to Programming,CSC110-A,A,Fall,2026,dr-silva,Dr. Silva,3,87,10,73,77,77,84,81
+S010,Student 010,ENG102,Academic Writing,ENG102-A,A,Fall,2026,prof-nguyen,Prof. Nguyen,3,63,7,53,52,46,54,59
+S010,Student 010,CSC110,Introduction to Programming,CSC110-A,A,Fall,2026,dr-silva,Dr. Silva,3,70,2,34,36,27,32,34
+S010,Student 010,HIS110,World History,HIS110-A,A,Fall,2026,prof-okafor,Prof. Okafor,3,61,6,42,41,41,46,39
+S010,Student 010,MAT101,College Algebra,MAT101-B,B,Fall,2026,prof-okafor,Prof. Okafor,4,75,6,52,46,46,44,48
+S011,Student 011,CHE101,Chemistry I,CHE101-A,A,Fall,2026,prof-nguyen,Prof. Nguyen,4,82,10,80,,74,77,76
+S011,Student 011,BIO101,Biology I,BIO101-A,A,Fall,2026,dr-silva,Dr. Silva,4,89,9,73,74,75,79,71
+S011,Student 011,MAT101,College Algebra,MAT101-B,B,Fall,2026,prof-okafor,Prof. Okafor,4,98,6,79,80,74,88,
+S012,Student 012,PHY101,Physics I,PHY101-A,A,Fall,2026,dr-chen,Dr. Chen,4,88,9,58,67,57,59,62
+S012,Student 012,BIO101,Biology I,BIO101-A,A,Fall,2026,dr-silva,Dr. Silva,4,89,7,57,69,64,64,
+S012,Student 012,CHE101,Chemistry I,CHE101-A,A,Fall,2026,prof-nguyen,Prof. Nguyen,4,93,9,52,63,65,58,59
+S013,Student 013,MAT101,College Algebra,MAT101-B,B,Fall,2026,prof-okafor,Prof. Okafor,4,96,11,80,81,63,71,73
+S013,Student 013,PHY101,Physics I,PHY101-A,A,Fall,2026,dr-chen,Dr. Chen,4,88,6,74,72,61,67,75
+S013,Student 013,HIS110,World History,HIS110-A,A,Fall,2026,prof-okafor,Prof. Okafor,3,100,9,79,72,69,80,
+S013,Student 013,BIO101,Biology I,BIO101-A,A,Fall,2026,dr-silva,Dr. Silva,4,100,9,79,78,75,88,
+S014,Student 014,ENG102,Academic Writing,ENG102-A,A,Fall,2026,prof-nguyen,Prof. Nguyen,3,83,9,96,99,99,92,99
+S014,Student 014,PHY101,Physics I,PHY101-A,A,Fall,2026,dr-chen,Dr. Chen,4,85,9,82,82,87,81,87
+S014,Student 014,CSC110,Introduction to Programming,CSC110-A,A,Fall,2026,dr-silva,Dr. Silva,3,93,9,88,87,83,85,92
+S015,Student 015,CHE101,Chemistry I,CHE101-A,A,Fall,2026,prof-nguyen,Prof. Nguyen,4,69,8,65,61,61,62,
+S015,Student 015,MAT101,College Algebra,MAT101-A,A,Fall,2026,dr-chen,Dr. Chen,4,66,5,71,64,69,60,62
+S015,Student 015,BIO101,Biology I,BIO101-A,A,Fall,2026,dr-silva,Dr. Silva,4,59,7,51,50,,46,
+S015,Student 015,PHY101,Physics I,PHY101-A,A,Fall,2026,dr-chen,Dr. Chen,4,68,6,43,46,52,49,
+S016,Student 016,CSC110,Introduction to Programming,CSC110-A,A,Fall,2026,dr-silva,Dr. Silva,3,93,12,64,71,66,67,63
+S016,Student 016,CHE101,Chemistry I,CHE101-A,A,Fall,2026,prof-nguyen,Prof. Nguyen,4,88,9,71,67,70,78,74
+S016,Student 016,BIO101,Biology I,BIO101-A,A,Fall,2026,dr-silva,Dr. Silva,4,87,9,62,75,74,71,71
+S017,Student 017,ENG102,Academic Writing,ENG102-A,A,Fall,2026,prof-nguyen,Prof. Nguyen,3,87,10,94,88,91,93,86
+S017,Student 017,BIO101,Biology I,BIO101-A,A,Fall,2026,dr-silva,Dr. Silva,4,90,9,84,85,84,89,85
+S017,Student 017,HIS110,World History,HIS110-A,A,Fall,2026,prof-okafor,Prof. Okafor,3,89,8,86,89,89,77,91
+S018,Student 018,PHY101,Physics I,PHY101-A,A,Fall,2026,dr-chen,Dr. Chen,4,96,12,69,74,66,59,63
+S018,Student 018,ENG102,Academic Writing,ENG102-A,A,Fall,2026,prof-nguyen,Prof. Nguyen,3,100,8,75,82,79,84,85
+S018,Student 018,BIO101,Biology I,BIO101-A,A,Fall,2026,dr-silva,Dr. Silva,4,100,11,78,74,74,76,71
+S018,Student 018,CSC110,Introduction to Programming,CSC110-A,A,Fall,2026,dr-silva,Dr. Silva,3,91,8,66,59,60,66,70
+S019,Student 019,CHE101,Chemistry I,CHE101-A,A,Fall,2026,prof-nguyen,Prof. Nguyen,4,75,12,92,88,79,94,80
+S019,Student 019,BIO101,Biology I,BIO101-A,A,Fall,2026,dr-silva,Dr. Silva,4,74,9,99,96,99,100,88
+S019,Student 019,HIS110,World History,HIS110-A,A,Fall,2026,prof-okafor,Prof. Okafor,3,77,8,82,,74,80,70
+S019,Student 019,ENG102,Academic Writing,ENG102-A,A,Fall,2026,prof-nguyen,Prof. Nguyen,3,82,10,95,98,94,94,100
+S020,Student 020,MAT101,College Algebra,MAT101-A,A,Fall,2026,dr-chen,Dr. Chen,4,73,6,38,25,,25,29
+S020,Student 020,ENG102,Academic Writing,ENG102-A,A,Fall,2026,prof-nguyen,Prof. Nguyen,3,69,7,39,47,51,46,43
+S020,Student 020,CSC110,Introduction to Programming,CSC110-A,A,Fall,2026,dr-silva,Dr. Silva,3,76,5,51,49,45,46,49
+S021,Student 021,HIS110,World History,HIS110-A,A,Fall,2026,prof-okafor,Prof. Okafor,3,93,9,72,73,77,69,74
+S021,Student 021,CHE101,Chemistry I,CHE101-A,A,Fall,2026,prof-nguyen,Prof. Nguyen,4,98,10,76,72,81,71,73
+S021,Student 021,ENG102,Academic Writing,ENG102-A,A,Fall,2026,prof-nguyen,Prof. Nguyen,3,94,4,91,88,82,84,89
+S022,Student 022,BIO101,Biology I,BIO101-A,A,Fall,2026,dr-silva,Dr. Silva,4,81,11,59,68,59,66,63
+S022,Student 022,MAT101,College Algebra,MAT101-A,A,Fall,2026,dr-chen,Dr. Chen,4,81,10,77,69,73,73,70
+S022,Student 022,ENG102,Academic Writing,ENG102-A,A,Fall,2026,prof-nguyen,Prof. Nguyen,3,86,7,74,75,67,81,71
+S022,Student 022,PHY101,Physics I,PHY101-A,A,Fall,2026,dr-chen,Dr. Chen,4,87,8,62,65,75,64,65
+S023,Student 023,CHE101,Chemistry I,CHE101-A,A,Fall,2026,prof-nguyen,Prof. Nguyen,4,90,5,52,64,58,62,55
+S023,Student 023,ENG102,Academic Writing,ENG102-A,A,Fall,2026,prof-nguyen,Prof. Nguyen,3,99,9,85,,87,86,98
+S023,Student 023,PHY101,Physics I,PHY101-A,A,Fall,2026,dr-chen,Dr. Chen,4,92,13,71,71,78,81,73
+S024,Student 024,ENG102,Academic Writing,ENG102-A,A,Fall,2026,prof-nguyen,Prof. Nguyen,3,100,11,63,67,55,60,69
+S024,Student 024,HIS110,World History,HIS110-A,A,Fall,2026,prof-okafor,Prof. Okafor,3,100,11,66,68,66,74,68
+S024,Student 024,MAT101,College Algebra,MAT101-A,A,Fall,2026,dr-chen,Dr. Chen,4,99,10,64,64,73,66,73
+S025,Student 025,CSC110,Introduction to Programming,CSC110-A,A,Fall,2026,dr-silva,Dr. Silva,3,73,12,40,31,37,35,29
+S025,Student 025,ENG102,Academic Writing,ENG102-A,A,Fall,2026,prof-nguyen,Prof. Nguyen,3,75,7,43,35,40,39,41
+S025,Student 025,PHY101,Physics I,PHY101-A,A,Fall,2026,dr-chen,Dr. Chen,4,70,9,22,27,25,22,20
+S025,Student 025,HIS110,World History,HIS110-A,A,Fall,2026,prof-okafor,Prof. Okafor,3,69,6,33,31,41,49,31
+S026,Student 026,PHY101,Physics I,PHY101-A,A,Fall,2026,dr-chen,Dr. Chen,4,84,8,60,62,71,57,66
+S026,Student 026,CHE101,Chemistry I,CHE101-A,A,Fall,2026,prof-nguyen,Prof. Nguyen,4,86,8,74,73,86,77,72
+S026,Student 026,MAT101,College Algebra,MAT101-A,A,Fall,2026,dr-chen,Dr. Chen,4,75,9,77,81,,80,73
+S027,Student 027,ENG102,Academic Writing,ENG102-A,A,Fall,2026,prof-nguyen,Prof. Nguyen,3,79,7,94,97,94,100,98
+S027,Student 027,CHE101,Chemistry I,CHE101-A,A,Fall,2026,prof-nguyen,Prof. Nguyen,4,79,7,88,80,83,83,
+S027,Student 027,CSC110,Introduction to Programming,CSC110-A,A,Fall,2026,dr-silva,Dr. Silva,3,81,9,84,80,90,89,85
+S027,Student 027,BIO101,Biology I,BIO101-A,A,Fall,2026,dr-silva,Dr. Silva,4,75,10,90,86,86,86,86
+S028,Student 028,CHE101,Chemistry I,CHE101-A,A,Fall,2026,prof-nguyen,Prof. Nguyen,4,100,11,75,80,67,67,
+S028,Student 028,HIS110,World History,HIS110-A,A,Fall,2026,prof-okafor,Prof. Okafor,3,100,11,75,77,77,76,
+S028,Student 028,CSC110,Introduction to Programming,CSC110-A,A,Fall,2026,dr-silva,Dr. Silva,3,100,11,59,56,56,59,62
+S029,Student 029,CHE101,Chemistry I,CHE101-A,A,Fall,2026,prof-nguyen,Prof. Nguyen,4,97,10,81,80,68,79,
+S029,Student 029,MAT101,College Algebra,MAT101-A,A,Fall,2026,dr-chen,Dr. Chen,4,99,11,79,69,83,75,80
+S029,Student 029,BIO101,Biology I,BIO101-A,A,Fall,2026,dr-silva,Dr. Silva,4,100,6,96,98,95,89,
+S029,Student 029,ENG102,Academic Writing,ENG102-A,A,Fall,2026,prof-nguyen,Prof. Nguyen,3,88,9,91,94,92,94,83
+S030,Student 030,BIO101,Biology I,BIO101-A,A,Fall,2026,dr-silva,Dr. Silva,4,77,4,54,54,55,45,60
+S030,Student 030,MAT101,College Algebra,MAT101-B,B,Fall,2026,prof-okafor,Prof. Okafor,4,65,9,54,57,46,64,56
+S030,Student 030,HIS110,World History,HIS110-A,A,Fall,2026,prof-okafor,Prof. Okafor,3,68,9,67,68,67,68,67
+S030,Student 030,PHY101,Physics I,PHY101-A,A,Fall,2026,dr-chen,Dr. Chen,4,72,5,64,49,48,52,51
+S031,Student 031,BIO101,Biology I,BIO101-A,A,Fall,2026,dr-silva,Dr. Silva,4,87,8,74,79,64,74,76
+S031,Student 031,CHE101,Chemistry I,CHE101-A,A,Fall,2026,prof-nguyen,Prof. Nguyen,4,88,9,78,76,83,75,77
+S031,Student 031,ENG102,Academic Writing,ENG102-A,A,Fall,2026,prof-nguyen,Prof. Nguyen,3,84,11,83,81,86,79,79
+S032,Student 032,PHY101,Physics I,PHY101-A,A,Fall,2026,dr-chen,Dr. Chen,4,91,9,72,,78,77,74
+S032,Student 032,CHE101,Chemistry I,CHE101-A,A,Fall,2026,prof-nguyen,Prof. Nguyen,4,85,9,68,80,76,78,69
+S032,Student 032,MAT101,College Algebra,MAT101-A,A,Fall,2026,dr-chen,Dr. Chen,4,89,9,77,75,76,63,81
+S033,Student 033,MAT101,College Algebra,MAT101-B,B,Fall,2026,prof-okafor,Prof. Okafor,4,100,9,90,88,82,91,86
+S033,Student 033,BIO101,Biology I,BIO101-A,A,Fall,2026,dr-silva,Dr. Silva,4,98,10,89,88,86,86,89
+S033,Student 033,CHE101,Chemistry I,CHE101-A,A,Fall,2026,prof-nguyen,Prof. Nguyen,4,100,6,83,82,84,85,85
+S033,Student 033,CSC110,Introduction to Programming,CSC110-A,A,Fall,2026,dr-silva,Dr. Silva,3,93,13,86,90,85,83,88
+S034,Student 034,BIO101,Biology I,BIO101-A,A,Fall,2026,dr-silva,Dr. Silva,4,94,10,69,63,64,70,73
+S034,Student 034,HIS110,World History,HIS110-A,A,Fall,2026,prof-okafor,Prof. Okafor,3,97,8,83,84,79,91,82
+S034,Student 034,PHY101,Physics I,PHY101-A,A,Fall,2026,dr-chen,Dr. Chen,4,100,9,68,73,69,88,74
+S035,Student 035,ENG102,Academic Writing,ENG102-A,A,Fall,2026,prof-nguyen,Prof. Nguyen,3,70,9,63,68,66,69,66
+S035,Student 035,HIS110,World History,HIS110-A,A,Fall,2026,prof-okafor,Prof. Okafor,3,76,9,55,56,56,49,55
+S035,Student 035,PHY101,Physics I,PHY101-A,A,Fall,2026,dr-chen,Dr. Chen,4,66,8,64,61,61,70,61
+S036,Student 036,ENG102,Academic Writing,ENG102-A,A,Fall,2026,prof-nguyen,Prof. Nguyen,3,92,9,75,69,66,71,68
+S036,Student 036,MAT101,College Algebra,MAT101-B,B,Fall,2026,prof-okafor,Prof. Okafor,4,90,10,68,59,60,63,69
+S036,Student 036,PHY101,Physics I,PHY101-A,A,Fall,2026,dr-chen,Dr. Chen,4,93,8,72,69,77,72,79
+S036,Student 036,CHE101,Chemistry I,CHE101-A,A,Fall,2026,prof-nguyen,Prof. Nguyen,4,91,13,67,82,70,71,65
+S037,Student 037,ENG102,Academic Writing,ENG102-A,A,Fall,2026,prof-nguyen,Prof. Nguyen,3,100,11,81,87,79,87,89
+S037,Student 037,PHY101,Physics I,PHY101-A,A,Fall,2026,dr-chen,Dr. Chen,4,100,10,67,68,65,75,76
+S037,Student 037,BIO101,Biology I,BIO101-A,A,Fall,2026,dr-silva,Dr. Silva,4,100,14,78,72,67,78,
+S037,Student 037,CHE101,Chemistry I,CHE101-A,A,Fall,2026,prof-nguyen,Prof. Nguyen,4,100,7,81,76,81,78,77
+S038,Student 038,MAT101,College Algebra,MAT101-A,A,Fall,2026,dr-chen,Dr. Chen,4,96,9,64,68,63,69,68
+S038,Student 038,PHY101,Physics I,PHY101-A,A,Fall,2026,dr-chen,Dr. Chen,4,75,12,69,69,70,68,
+S038,Student 038,ENG102,Academic Writing,ENG102-A,A,Fall,2026,prof-nguyen,Prof. Nguyen,3,83,9,87,89,90,89,
+S039,Student 039,MAT101,College Algebra,MAT101-A,A,Fall,2026,dr-chen,Dr. Chen,4,89,12,81,76,82,76,
+S039,Student 039,CSC110,Introduction to Programming,CSC110-A,A,Fall,2026,dr-silva,Dr. Silva,3,86,10,79,73,76,75,81
+S039,Student 039,BIO101,Biology I,BIO101-A,A,Fall,2026,dr-silva,Dr. Silva,4,92,8,80,79,75,83,80
+S040,Student 040,ENG102,Academic Writing,ENG102-A,A,Fall,2026,prof-nguyen,Prof. Nguyen,3,70,8,66,57,62,70,62
+S040,Student 040,HIS110,World History,HIS110-A,A,Fall,2026,prof-okafor,Prof. Okafor,3,77,8,64,66,61,82,64
+S040,Student 040,MAT101,College Algebra,MAT101-B,B,Fall,2026,prof-okafor,Prof. Okafor,4,82,8,56,59,59,66,63
+S040,Student 040,CSC110,Introduction to Programming,CSC110-A,A,Fall,2026,dr-silva,Dr. Silva,3,63,10,61,58,59,75,46
